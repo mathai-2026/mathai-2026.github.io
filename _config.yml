@@ -8,7 +8,7 @@
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: 5th MATH-AI Workshop at NeurIPS'25
+title: 6th MATH-AI Workshop at NeurIPS'26
 
 
 # Short description of your site
@@ -27,7 +27,7 @@ navbar-links:
   # - Learn markdown: "http://www.markdowntutorial.com/"
   # - GitHub Pages: "https://pages.github.com/"
   # Organizers: "#organizers"
-  # About: "https://mathai2025.github.io/"
+  # About: "https://mathai2026.github.io/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -62,7 +62,7 @@ footer-link-col: "#404040"
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
-author: Organizers of the 5th MATH-AI Workshop at NeurIPS 2025
+author: Organizers of the 6th MATH-AI Workshop at NeurIPS 2026
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -70,7 +70,7 @@ author: Organizers of the 5th MATH-AI Workshop at NeurIPS 2025
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   # rss: true
-  email: "mathai.neurips2025@gmail.com"
+  email: "psong2@andrew.cmu.edu"
   # facebook: daattali
   # github: daattali
   # twitter: daattali
@@ -94,7 +94,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "mathai2025.github.io" # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "mathai-2026.github.io" # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -130,7 +130,7 @@ url-pretty: "mathai2025.github.io" # eg. "deanattali.com/beautiful-jekyll"
 # Staticman support
 staticman:
   repository: # GitHub username/repository eg. "daattali/beautiful-jekyll"
-  branch: # eg. "master" If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
+  branch: # eg. "master" If you're not using `master` branch, then you need to also update the `branch` parameter in `staticman.yml`
   endpoint: # URL of your own deployment (with trailing slash) (will fallback to a public GitLab instance)
   reCaptcha:
     # reCaptcha for Staticman (OPTIONAL)
@@ -154,7 +154,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/West Meeting Room 118-120, Vancouver"
+timezone: "America/TBD, Atlanta"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/

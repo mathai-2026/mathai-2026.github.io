@@ -1,108 +1,81 @@
 opening:
-  event: "Introduction and Opening Remarks"
+  event: "Opening Remarks"
   start: "08:55-09:00"
   type: "General"
 
-klauter:
-  event: "klauter"
-  title: "AI4Crypto"
+invited1:
+  event: "Invited Talk"
+  title: "TBA"
   start: "09:00-09:30"
   type: "Invited"
 
-mjohansson:
-  event: "mjohansson"
-  title: "Exploring Mathematical Conjecturing – From Heuristic Search to Large Language Models  "
+invited2:
+  event: "Invited Talk"
+  title: "TBA"
   start: "09:30-10:00"
   type: "Invited"
 
-ngoodman:
-  event: "ngoodman"
-  title: "Axioms (and curiosity and attention) are all you need"
+invited3:
+  event: "Invited Talk"
+  title: "TBA"
   start: "10:00-10:30"
   type: "Invited"
 
-Break1:
-  event: "Break"
+break1:
+  event: "Coffee Break"
   title: ""
-  author: ""
   start: "10:30-11:00"
   type: "General"
 
-panel1:
-  event: "Panel Discussion"
-  title: "MATH-AI 2023"
-  # speakers: "Jo Boaler (Stanford), Yuri Burda (OpenAI), Chris Piech (Stanford), Sumeet Singh (Turnitin), Kurt Vanlehn (ASU)"
-  speakers: ["tgowers", "rtalia", "asolarlezama", "ywu", "mjamnik"]
-  start: "11:00-12:00"
-  type: "Panel" 
-
-Break2:
-  event: "Break"
+poster1:
+  event: "Poster Session (I)"
   title: ""
-  author: ""
-  start: "12:00-13:00"
+  start: "11:00-12:00"
   type: "General"
 
-contrib1:
-  title: "Learning the Greatest Divisor - Explainable Predictions in Transformers"
-  name: "Francois Charton"
-  #url: "https://hattiezhou.com/"
-  #affiliation: "Université de Montréal"
-  start: "13:00-13:15"
-  type: "Contributed"
+invited4:
+  event: "Invited Talk"
+  title: "TBA"
+  start: "12:00-12:30"
+  type: "Invited"
 
-contrib2:
-  title: "Lemur: Integrating Large Language Models in Automated Program Verification"
-  name: "Nina Narodytska"
-  #url: "http://www.kushman.org/"
-  #affiliation: "DeepMind"
-  start: "13:15-13:30"
-  type: "Contributed"
+lunch:
+  event: "Lunch Break"
+  title: ""
+  start: "12:30-13:30"
+  type: "General"
 
-contrib3:
-  title: "OpenWebMath: An Open Dataset of High-Quality Mathematical Web Text"
-  name: "Keiran Paster"
-  #url: "https://www.linkedin.com/in/zhangir-azerbayev-314ab21b8/"
-  #affiliation: "Yale University"
-  start: "13:30-13:45"
-  type: "Contributed"
+invited5:
+  event: "Invited Talk"
+  title: "TBA"
+  start: "13:30-14:00"
+  type: "Invited"
 
-contrib4:
-  title: "What Algorithms Can Transformers Learn? A Study in Length Generalization"
-  name: "Hattie Zhou"
-  #url: "https://www.linkedin.com/in/zhangir-azerbayev-314ab21b8/"
-  #affiliation: "Yale University"
-  start: "13:45-14:00"
-  type: "Contributed"
-
-fcharton:
-  event: "fcharton"
-  title: "AI can learn from data. But can it learn to reason?"
+invited6:
+  event: "Invited Talk"
+  title: "TBA"
   start: "14:00-14:30"
   type: "Invited"
 
-break2:
-  event: "Coffee Break"
-  title: ""
+contrib:
+  event: "Contributed Talks"
+  title: "3 × 10 mins"
   start: "14:30-15:00"
-  type: "General"
+  type: "Contributed"
 
-poster1:
-  event: "Poster Session"
+poster2:
+  event: "Poster Session (II)"
   title: ""
-  author: ""
   start: "15:00-16:00"
   type: "General"
 
-xchen:
-  event: "xchen"
-  title: "Analogical Reasoning with Large Language Models"
-  start: "16:00-16:30"
-  type: "Invited"
+panel:
+  event: "Discussion Panel"
+  title: ""
+  start: "16:00-17:00"
+  type: "Panel"
 
-psmolensky:
-  event: "psmolensky"
-  title: "Mechanisms of Symbol Processing for In-Context Learning in Transformers"
-  start: "16:30-17:00"
-  type: "Invited"
-
+closing:
+  event: "Closing Remarks"
+  start: "17:00-17:05"
+  type: "General"

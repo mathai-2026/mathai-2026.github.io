@@ -1,11 +1,11 @@
 ---
 layout: page
 title: MATH-AI
-subtitle: "The 5th Workshop on Mathematical Reasoning and AI"
+subtitle: "The 6th Workshop on Mathematical Reasoning and AI"
 use-site-title: true
 ---
 <div class="venue" style="font-size: 27px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
-  <a target="_blank" href="https://nips.cc/virtual/2025/workshop/109565">NeurIPS 2025, San Diego Convention Center (Upper Level Ballroom 6A), December 6th, 2025</a>
+  NeurIPS 2026, Atlanta, December 11–13, 2026 (exact date &amp; room TBD)
 </div>
 
 
@@ -15,23 +15,24 @@ use-site-title: true
 <meta name="thumbnail" content="./img/neurips-logo-new.jpg" />
 
 # News
-* Our <a href="https://mathai2025.github.io/schedule/">workshop schedule</a> is available!
-* Use <a href="https://forms.gle/sNe6zNo4ECgcpMcG9">this form</a> to let us know you're attending MATH-AI and open to connecting with our sponsors and community partners.
+<!-- * The <a href="https://mathai-2026.github.io/cfp/">call for papers</a> is now open! -->
 
 
 
 # Overview
 
-Mathematical reasoning is a fundamental aspect of human cognition that has been studied by scholars ranging from 
-philosophers to cognitive scientists and neuroscientists. Mathematical reasoning involves analyzing complex information, identifying patterns and relationships, and drawing logical conclusions from evidence. It is central to many applications in science, engineering, finance, and everyday contexts. Recent advancements in large language models (LLMs) have unlocked new opportunities at the intersection of artificial intelligence and mathematical reasoning, ranging from new methods that solve complex problems or prove theorems, to new forms of human-machine collaboration in mathematics and beyond. 
+Mathematical reasoning is central to science, engineering, finance, education, and mathematics itself. Since the first MATH-AI workshop, the field has moved from asking whether large language models (LLMs) can solve mathematical problems to asking how AI systems can participate across the gamut of mathematical research: proposing conjectures, searching for examples and counterexamples, formalizing arguments, proving theorems, designing algorithms, and collaborating with human researchers.
 
-This workshop is centered on the intersection of deep learning and mathematical reasoning, with an emphasis on, but not limited to, large language models. Our guiding theme is: *To what extent can machine learning models comprehend mathematics, and what applications could arise from this capability?* To address this question, we aim to bring together diverse participants from different backgrounds, institutions, and disciplines into our workshop. Our objective is to foster a lively and constructive dialogue on areas related, but not limited, to the following:
+This year, our workshop focuses more squarely on (but is not limited to) the intersection of agentic AI and mathematical reasoning. Recent progress makes this an especially timely moment for the 6th MATH-AI workshop at NeurIPS: AI systems have achieved super-human results on competition-style and formal mathematical reasoning tasks, autoformalization is connecting natural mathematical language with proof assistants and formal libraries, and AI systems are beginning to guide mathematical discovery in topology, representation theory, combinatorics, matrix multiplication, and geometry. These advances point toward "auto-research," in which AI helps automate parts of the research loop from conjecture generation to proof search, verification, and communication.
 
-- **Humans vs. machines**: A comparative study of human-level mathematical reasoning and current AI techniques. How do they differ, complement one another, or intersect?
-- **Measuring mathematical reasoning**: How do we design benchmarks which accurately evaluate mathematical reasoning abilities, especially in an era of large language models?
-- **New capabilities**: How do we move beyond our current techniques?
-- **Education**: What role can deep learning models play in mathematics education, especially in contexts with limited educational resources?
-- **Applications**: What applications could AI systems enable in the near- and long-term? Example domains include software verification, sciences, engineering, finance, education, and mathematics itself.
+This year, our central question is: *How can agentic AI systems advance mathematical research while remaining reliable collaborators for human mathematicians?* This theme links two priorities: building agents that can plan, use tools, conjecture, formalize, prove, verify, and learn from feedback; and designing human-AI workflows in which such agents extend mathematical judgment. It preserves the central question of previous MATH-AI workshops while reflecting the field's shift from isolated problem solving toward reliable mathematical agents and human-AI research workflows. To address this question, we aim to bring together diverse participants from different backgrounds, institutions, and disciplines into our workshop. Our objective is to foster a lively and constructive dialogue on areas related, but not limited, to the following:
+
+- **Humans vs. machines**: How do human and machine mathematical reasoning differ, complement one another, or intersect?
+- **Measuring mathematical reasoning**: How do we design benchmarks that capture proof quality, robustness, creativity, and formal correctness?
+- **New capabilities**: How do we build AI agents that conjecture, explore, prove, formalize, and self-improve through reliable feedback?
+- **Auto-research and discovery**: Which parts of mathematical research can be automated, and how should human-AI teams divide labor?
+- **Education**: What roles can deep learning models play in mathematics education, especially where resources are limited?
+- **Applications**: What applications could AI-assisted mathematics enable in formal verification, software and hardware design, science, engineering, finance, education, and mathematics itself?
 
 
 <hr>
@@ -54,14 +55,6 @@ This workshop is centered on the intersection of deep learning and mathematical 
     {% endif %}
     {% endfor %}
   </div>
-  <div class="row">
-    {% for p in site.data.speakers %}
-    {% capture id %}{{ p[0] }}{% endcapture %}
-    {% if forloop.index>10 and forloop.index<=15%}
-    {% include profile.html p=p %}
-    {% endif %}
-    {% endfor %}
-  </div>
 </div>
 
 <hr>
@@ -75,7 +68,7 @@ This workshop is centered on the intersection of deep learning and mathematical 
   <div class="row" style="margin: -30px;"> -->
   <div class="row">
     {% for p in site.data.organizers %}
-    {% if forloop.index<=6 %}
+    {% if forloop.index<=4 %}
     {% capture id %}{{ p[0] }}{% endcapture %}
     {% include profile.html p=p %}
     {% endif %}
@@ -84,7 +77,7 @@ This workshop is centered on the intersection of deep learning and mathematical 
   <div class="row">
     {% for p in site.data.organizers %}
     {% capture id %}{{ p[0] }}{% endcapture %}
-    {% if forloop.index>6 and forloop.index<=12%}
+    {% if forloop.index>4 and forloop.index<=8%}
     {% include profile.html p=p %}
     {% endif %}
     {% endfor %}
@@ -95,12 +88,13 @@ This workshop is centered on the intersection of deep learning and mathematical 
 
 # Sponsors
 
-<a href="https://www.darpa.mil/" target="_blank"><img alt="DARPA" src="img/darpa.png" width=280 /></a> <a href="https://harmonic.fun/" target="_blank"><img alt="Harmonic" src="img/harmonic.svg" width=300 /></a> <a href="https://aws.amazon.com/" target="_blank"><img alt="AWS" src="img/aws.png" width=250 /></a> <a href="https://axiommath.ai/" target="_blank"><img alt="Axiom" src="img/Axiom.png" width=270 /></a>
+Sponsor information will be posted soon.
 
 
 # Past MATH-AI Workshops
 
 <div class="container" style="margin-bottom: 10px;"></div>
+- 5th MATH-AI Workshop at NeurIPS'25: [The 5th Workshop on Mathematical Reasoning and AI](https://mathai2025.github.io/)
 - 4th MATH-AI Workshop at NeurIPS'24: [The 4th Workshop on Mathematical Reasoning and AI](https://mathai2024.github.io/)
 - 3rd MATH-AI Workshop at NeurIPS'23: [The 3rd Workshop on Mathematical Reasoning and AI](https://mathai2023.github.io/)
 - 2nd MATH-AI Workshop at NeurIPS'22: [Toward Human-Level Mathematical Reasoning](https://mathai2022.github.io/)
@@ -112,4 +106,4 @@ This workshop is centered on the intersection of deep learning and mathematical 
 
 <hr>
 
-Contact: <mathai.neurips2025@gmail.com>.
+Contact: <psong2@andrew.cmu.edu>.
