@@ -7,7 +7,7 @@ ychoi:
 
 sbubeck:
     name: "Sébastien Bubeck"
-    url: "https://sbubeck.github.io/"
+    url: "https://sbubeck.com/"
     affiliation: "OpenAI"
     img: "sbubeck.jpg"
     bio: "Sébastien Bubeck is a researcher at OpenAI. He is Alfred P. Sloan Research Fellow, and recipient of multiple Best Paper Awards. His research spans the foundations of deep learning, optimization, language-model reasoning, scientific discovery with AI, and the limits of machine intelligence."
@@ -28,7 +28,7 @@ tgowers:
 
 agu:
     name: "Alex Gu"
-    url: "https://alexgu.pro/"
+    url: "https://minimario.github.io/"
     affiliation: "Math, Inc. & MIT"
     img: "agu.jpg"
     bio: "Alex Gu is a PhD student at MIT, a founding research lead at Math, Inc., and an NSF Graduate Research Fellow. He works on AI systems for programming and mathematics, including formal theorem proving, proof simplification, and language-model reasoning."
@@ -49,14 +49,14 @@ javigad:
 
 kellis:
     name: "Kevin Ellis"
-    url: "https://people.cornell.edu/ke319/"
-    affiliation: "Cornell"
+    url: "https://www.cs.cornell.edu/~ellisk/"
+    affiliation: "Cornell University"
     img: "kellis.jpg"
     bio: "Kevin Ellis is an Assistant Professor of Computer Science at Cornell University and NSF CAREER award recipient. His research focuses on program synthesis, neuro-symbolic AI, library learning, abstraction, and systems that learn interpretable programs and concepts."
 
 namin:
     name: "Nada Amin"
     url: "https://namin.seas.harvard.edu/"
-    affiliation: "Harvard"
+    affiliation: "Harvard University"
     img: "namin.jpg"
     bio: "Nada Amin is an Assistant Professor of Computer Science at Harvard SEAS and recipient of a PLDI Distinguished Paper Award. Her research combines programming languages and AI to build correct-by-construction systems for program synthesis, proof synthesis, verification, and mathematical discovery."

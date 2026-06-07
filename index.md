@@ -14,9 +14,8 @@ use-site-title: true
 <div class="sharethis-inline-share-buttons"></div>
 <meta name="thumbnail" content="./img/neurips-logo-new.jpg" />
 
-# News
+<!-- # News -->
 <!-- * The <a href="https://mathai-2026.github.io/cfp/">call for papers</a> is now open! -->
-
 
 
 # Overview

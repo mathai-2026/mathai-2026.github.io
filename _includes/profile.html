@@ -13,4 +13,8 @@
   <a href="{{ include.p[1].url }}">{{ include.p[1].name }}</a>
   <br />
   {{ include.p[1].affiliation }}
+  {% if include.p[1].scholar %}
+  <br />
+  <a href="{{ include.p[1].scholar }}">Google Scholar</a>
+  {% endif %}
 </div>
