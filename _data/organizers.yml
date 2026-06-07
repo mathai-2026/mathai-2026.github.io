@@ -1,7 +1,7 @@
 psong:
   name: "Peiyang Song"
   url: "https://peiyang-song.github.io/"
-  affiliation: "Carnegie Mellon University"
+  affiliation: "CMU"
   img: "psong.jpg"
   bio: "Peiyang Song is a PhD student at the Carnegie Mellon University. His research focuses on mathematical reasoning, theorem proving, and natural language reasoning, with an emphasis on integrating formal systems and large language models. He has received various awards, including NeurIPS LAW Workshop Best Paper Honorable Mention and IEEE Micro Top Pick Award."
 kyang:
@@ -37,7 +37,7 @@ kcollins:
 swelleck:
   name: "Sean Welleck"
   url: "https://wellecks.com/"
-  affiliation: "Carnegie Mellon University"
+  affiliation: "CMU"
   img: "swelleck.jpg"
   bio: "Sean Welleck is an Assistant Professor in the Language Technologies Institute at Carnegie Mellon University. His research focuses on language modeling, reasoning, controllable generation, and machine learning for formal reasoning, including applications to mathematical reasoning and theorem proving. He has extensive workshop organization experience, including AI for Math at ICML'24, MATH-AI at NeurIPS'22 & '23, MathNLP at EMNLP'22, Math AI for Education at NeurIPS'21, VerifAI at ICLR'25, and SCALR at COLM'25."
 mjamnik:
