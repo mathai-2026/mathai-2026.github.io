@@ -1,0 +1,108 @@
+opening:
+  event: "Introduction and Opening Remarks"
+  start: "08:55-09:00"
+  type: "General"
+
+klauter:
+  event: "klauter"
+  title: "AI4Crypto"
+  start: "09:00-09:30"
+  type: "Invited"
+
+mjohansson:
+  event: "mjohansson"
+  title: "Exploring Mathematical Conjecturing – From Heuristic Search to Large Language Models  "
+  start: "09:30-10:00"
+  type: "Invited"
+
+ngoodman:
+  event: "ngoodman"
+  title: "Axioms (and curiosity and attention) are all you need"
+  start: "10:00-10:30"
+  type: "Invited"
+
+Break1:
+  event: "Break"
+  title: ""
+  author: ""
+  start: "10:30-11:00"
+  type: "General"
+
+panel1:
+  event: "Panel Discussion"
+  title: "MATH-AI 2023"
+  # speakers: "Jo Boaler (Stanford), Yuri Burda (OpenAI), Chris Piech (Stanford), Sumeet Singh (Turnitin), Kurt Vanlehn (ASU)"
+  speakers: ["tgowers", "rtalia", "asolarlezama", "ywu", "mjamnik"]
+  start: "11:00-12:00"
+  type: "Panel" 
+
+Break2:
+  event: "Break"
+  title: ""
+  author: ""
+  start: "12:00-13:00"
+  type: "General"
+
+contrib1:
+  title: "Learning the Greatest Divisor - Explainable Predictions in Transformers"
+  name: "Francois Charton"
+  #url: "https://hattiezhou.com/"
+  #affiliation: "Université de Montréal"
+  start: "13:00-13:15"
+  type: "Contributed"
+
+contrib2:
+  title: "Lemur: Integrating Large Language Models in Automated Program Verification"
+  name: "Nina Narodytska"
+  #url: "http://www.kushman.org/"
+  #affiliation: "DeepMind"
+  start: "13:15-13:30"
+  type: "Contributed"
+
+contrib3:
+  title: "OpenWebMath: An Open Dataset of High-Quality Mathematical Web Text"
+  name: "Keiran Paster"
+  #url: "https://www.linkedin.com/in/zhangir-azerbayev-314ab21b8/"
+  #affiliation: "Yale University"
+  start: "13:30-13:45"
+  type: "Contributed"
+
+contrib4:
+  title: "What Algorithms Can Transformers Learn? A Study in Length Generalization"
+  name: "Hattie Zhou"
+  #url: "https://www.linkedin.com/in/zhangir-azerbayev-314ab21b8/"
+  #affiliation: "Yale University"
+  start: "13:45-14:00"
+  type: "Contributed"
+
+fcharton:
+  event: "fcharton"
+  title: "AI can learn from data. But can it learn to reason?"
+  start: "14:00-14:30"
+  type: "Invited"
+
+break2:
+  event: "Coffee Break"
+  title: ""
+  start: "14:30-15:00"
+  type: "General"
+
+poster1:
+  event: "Poster Session"
+  title: ""
+  author: ""
+  start: "15:00-16:00"
+  type: "General"
+
+xchen:
+  event: "xchen"
+  title: "Analogical Reasoning with Large Language Models"
+  start: "16:00-16:30"
+  type: "Invited"
+
+psmolensky:
+  event: "psmolensky"
+  title: "Mechanisms of Symbol Processing for In-Context Learning in Transformers"
+  start: "16:30-17:00"
+  type: "Invited"
+

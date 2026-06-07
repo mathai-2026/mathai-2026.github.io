@@ -1,0 +1,90 @@
+schaudhuri:
+    name: "Swarat Chaudhuri"
+    url: "https://www.cs.utexas.edu/~swarat/"
+    affiliation: "UT Austin & Google DeepMind"
+    img: "schaudhuri.jpg"
+    bio: "Swarat Chaudhuri is a Professor of Computer Science at UT Austin and a Senior Staff Research Scientist at Google DeepMind. His research lies at the interface of programming languages, formal methods, and machine learning. His research seeks to develop a new class of intelligent systems that are reliable, transparent, and secure by construction and can solve reasoning-intensive tasks beyond the scope of contemporary AI."
+
+wchen:
+    name: "Weizhu Chen"
+    url: "https://www.microsoft.com/en-us/research/people/wzchen/"
+    affiliation: "Microsoft"
+    img: "wchen.jpg"
+    bio: "Weizhu Chen is a Technical Fellow and CVP at Microsoft. He leads a team working on large-scale (OpenAI and Microsoft) model training, including post-training, pre-training, and data. His published works include LoRA, DeBERTa, Phi, and Rho-1 (best paper runner-up award in NeurIPS 2024)."
+
+jdekoninck:
+    name: "Jasper Dekoninck"
+    url: "https://www.sri.inf.ethz.ch/people/jasper"
+    affiliation: "ETH Zürich"
+    img: "jdekoninck.png"
+    bio: "Jasper Dekoninck is a PhD researcher in the SRI Lab at ETH Zurich, aiming to create reliable methods for evaluating and advancing AI mathematical capabilities. He currently co-leads the MathArena benchmarking effort, which develops uncontaminated final-answer and proof-based math evaluations."
+
+ldemoura:
+    name: "Leonardo de Moura"
+    url: "https://leodemoura.github.io/"
+    affiliation: "Lean FRO & AWS"
+    img: "ldemoura.jpg"
+    bio: "Leo is a Senior Principal Applied Scientist in the Automated Reasoning Group at AWS. He is also the Chief Architect of the Lean FRO, a non-profit organization dedicated to driving Lean towards long-term sustainability. Before joining AWS, he worked at Microsoft Research and SRI International. His research areas are automated reasoning, theorem proving, decision procedures, SAT, and SMT. He is the main architect of several automated reasoning tools: Lean, Z3, Yices 1.0, and SAL. Leo's work in automated reasoning has been acknowledged with a series of prestigious awards, including the CAV, Haifa, and Herbrand awards, as well as the Programming Languages Software Award by the ACM. Leo's work has also been reported in the New York Times and many popular science magazines such as Wired, Quanta, and Nature News."
+    
+hhajishirzi:
+    name: "Hannaneh Hajishirzi "
+    url: "https://homes.cs.washington.edu/~hannaneh/"
+    affiliation: "University of Washington & AI2"
+    img: "hhajishirzi.jpg"
+    bio: "Hanna Hajishirzi is the Torode Family Associate Professor in the Allen School of Computer Science and Engineering at the University of Washington and a Senior Director of NLP at AI2. Her research delves into various areas within NLP and AI, focusing on understanding and pushing the boundaries of large language models. She is a recipient of 2020 Alfred Sloan Fellowship, 2021 NSF CAREER award, 2019 Intel rising star award, 2018 Allen Distinguished Investigator award, 2023 Academic Achievement UIUC Alumni award, 2024 innovator of the year award finalist by GeekWire, and several research faculty awards from industry. "
+
+cjin:
+    name: "Chi Jin"
+    url: "https://sites.google.com/view/cjin/home"
+    affiliation: "Princeton"
+    img: "cjin.jpg"
+    bio: "Chi Jin is an Assistant Professor of Electrical and Computer Engineering at Princeton University. His research focuses on the decision-making aspects of machine learning, developing intelligent agents capable of complex strategy, advanced reasoning, and planning. His research interests also include improving the reasoning abilities of LLMs and developing LLM agents for mathematics, coding, and complex games."
+
+tkalil:
+    name: "Tom Kalil"
+    url: "https://www.renaissancephilanthropy.org/team/tom-kalil"
+    affiliation: "Renaissance Philanthropy"
+    img: "tkalil.jpg"
+    bio: "Tom Kalil is the CEO of Renaissance Philanthropy. Tom served in the White House for two presidents (Obama and Clinton) and in collaboration with his team worked with the Senate to give every federal agency the authority to support incentive prizes for up to $50 million. Tom also designed and launched dozens of White House science and technology initiatives, including the $40 billion National Nanotechnology Initiative, announced by President Clinton; The BRAIN Initiative, announced by President Obama; The Next Generation Internet initiative, announced by President Clinton and Vice President Gore; and initiatives in advanced materials, robotics, smallsats, data science, and EdTech. Tom also served as the Chief Innovation Officer at Schmidt Futures, a philanthropic initiative of Eric and Wendy Schmidt. At Schmidt Futures, Tom supported the launch of Convergent Research, an organization that incubates and launches Focused Research Organizations, timebound non-profit organizations designed to accelerate scientific progress. Tom Kalil serves as Chair of Convergent Research. Tom also serves as a Member of the Board of Future House, a non profit focused on building AI-powered assistants for the laboratory."
+
+akumar:
+    name: "Aviral Kumar"
+    url: "https://aviralkumar2907.github.io/"
+    affiliation: "CMU"
+    img: "akumar.jpg"
+    bio: "Aviral Kumar is an Assistant Professor in the School of Computer Science at Carnegie Mellon University. He is interested in a broad range of topics ranging from core reinforcement learning (RL) algorithms to scaling RL methods to foundation models to real robots."
+
+wliu:
+    name: "Weiyang Liu"
+    url: "https://wyliu.com/"
+    affiliation: "Chinese University of Hong Kong"
+    img: "wliu.jpg"
+    bio: "Weiyang Liu is an (incoming) Assistant Professor at CUHK. He works on principled modeling of inductive bias in learning algorithms. His research seeks to understand how inductive bias affects generalization, and to develop ``light-yet-sweet'' learning algorithms: (i) light: conceptually simple in methodology and easy to implement in practice, (ii) sweet: having clear intuitions and nontrivial theoretical guarantees."
+
+tma:
+    name: "Tengyu Ma"
+    url: "https://ai.stanford.edu/~tengyuma/"
+    affiliation: "Stanford"
+    img: "tma.jpg"
+    bio: "Tengyu Ma is an Assistant Professor of Computer Science and Statistics at Stanford. His research interests broadly include topics in machine learning, algorithms and their theory, such as deep learning, (deep) reinforcement learning, pre-training / foundation models, robustness, non-convex optimization, distributed optimization, and high-dimensional statistics."
+
+pshafto:
+    name: "Patrick Shafto"
+    url: "https://patrickshafto.com/"
+    affiliation: "DARPA & Rutgers"
+    img: "pshafto.jpg"
+    bio: "Patrick Shafto is Program Manager in DARPA's I2O office and Professor of Mathematics and Computer Science at Rutgers University-Newark. His interests lie at the intersection of mathematics, AI, and formalization. At DARPA, he leads programs focused on mathematical foundations for AI, the AIQ program, and AI for pure mathematics, the Exponentiating Mathematics program."
+    
+mtegmark:
+    name: "Max Tegmark"
+    url: "https://physics.mit.edu/faculty/max-tegmark/"
+    affiliation: "MIT"
+    img: "mtegmark.jpg"
+    bio: "Max Tegmark is a professor doing AI and physics research at MIT as part of the Institute for Artificial Intelligence & Fundamental Interactions and the Center for Brains, Minds and Machines. He advocates for positive use of technology as president of the Future of Life Institute. He is the author of over 300 publications as well as the New York Times bestsellers \"Life 3.0: Being Human in the Age of Artificial Intelligence\" and \"Our Mathematical Universe: My Quest for the Ultimate Nature of Reality\".  His current AI research focuses on provably safe AI and mechanistic interpretability."
+
+jthomm:
+    name: "Jonathan Thomm"
+    url: "https://www.linkedin.com/in/jonathan-thomm/"
+    affiliation: "Harmonic"
+    img: "jthomm.jpg"
+    bio: "Jonathan Thomm is a Research Engineer at Harmonic, where he develops AI for mathematical reasoning. He was a core member of the team that built \"Aristotle\", one of the first AI systems to achieve a gold-medal-equivalent performance on the International Mathematical Olympiad (IMO), combining formal verification with informal reasoning. His research interests lie in scaling intelligent reasoning and reinforcement learning to complex problems. He is particularly interested in how AI models can improve far beyond a time horizon of minutes — learning and thinking as efficiently as humans. In the past, Jonathan worked with Prof. Bernhard Schölkopf at ETH Zurich on compositionality in LLMs."

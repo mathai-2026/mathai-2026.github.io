@@ -1,0 +1,55 @@
+kyang:
+  name: "Kaiyu Yang"
+  url: "https://yangky11.github.io/"
+  affiliation: "Meta FAIR"
+  img: "kyang.jpg"
+sshan:
+  name: "Sophia Simeng Han"
+  url: "https://sophiahan6.github.io/"
+  affiliation: "Yale"
+  img: "sshan.png"
+plu:
+  name: "Pan Lu"
+  url: "https://lupantech.github.io/"
+  affiliation: "Stanford"
+  img: "panlu.jpg"
+wxiong:
+  name: "Wei Xiong"
+  url: "https://weixiongust.github.io/WeiXiongUST/index.html"
+  affiliation: "UIUC"
+  img: "wxiong.jpg"
+ezelikman:
+  name: "Eric Zelikman"
+  url: "https://zelikman.me/"
+  affiliation: "xAI"
+  img: "ezelikman.jpg"
+ylin:
+  name: "Yong Lin"
+  url: "https://linyongver.github.io/Website/"
+  affiliation: "Princeton"
+  img: "ylin.png"
+zqin:
+  name: "Zhizhen Qin"
+  url: "https://zhizhenqin.github.io/"
+  affiliation: "AWS"
+  img: "zqin.jpg"
+skong:
+  name: "Soonho Kong"
+  url: "https://soonhokong.github.io/"
+  affiliation: "AWS"
+  img: "skong.png"
+hhe:
+  name: "He He"
+  url: "https://hhexiy.github.io/"
+  affiliation: "NYU"
+  img: "hhe.jpg"
+dsong:
+  name: "Dawn Song"
+  url: "https://dawnsong.io/"
+  affiliation: "UC Berkeley"
+  img: "dsong.jpg"
+sarora:
+  name: "Sanjeev Arora"
+  url: "https://www.cs.princeton.edu/~arora/"
+  affiliation: "Princeton"
+  img: "sarora.jpg"
