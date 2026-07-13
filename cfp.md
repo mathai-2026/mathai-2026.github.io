@@ -5,7 +5,7 @@ subtitle: "The 6th Workshop on Mathematical Reasoning and AI"
 use-site-title: true
 ---
 <div class="venue" style="font-size: 27px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
-  NeurIPS 2026, Atlanta, December 11–13, 2026 (exact date &amp; room TBD)
+  NeurIPS 2026, Atlanta, December 12–13, 2026 (exact date &amp; room TBD)
 </div>
 
 
@@ -13,14 +13,16 @@ use-site-title: true
 
 Mathematical reasoning is central to science, engineering, finance, education, and mathematics itself. Since the first MATH-AI workshop, the field has moved from asking whether large language models (LLMs) can solve mathematical problems to asking how AI systems can participate across the gamut of mathematical research: proposing conjectures, searching for examples and counterexamples, formalizing arguments, proving theorems, designing algorithms, and collaborating with human researchers.
 
-This year, our workshop focuses more squarely on (but is not limited to) the intersection of agentic AI and mathematical reasoning. Our central question is: *How can agentic AI systems advance mathematical research while remaining reliable collaborators for human mathematicians?* This theme links two priorities: building agents that can plan, use tools, conjecture, formalize, prove, verify, and learn from feedback; and designing human-AI workflows in which such agents extend mathematical judgment. To address this question, we aim to bring together diverse participants from different backgrounds, institutions, and disciplines into our workshop. Our objective is to foster a lively and constructive dialogue on areas related, but not limited, to the following:
+This year, our workshop focuses more squarely on (but is not limited to) the intersection of agentic AI and mathematical reasoning. Recent progress makes this an especially timely moment: AI systems have achieved super-human results on competition-style and formal mathematical reasoning tasks, autoformalization is connecting natural mathematical language with proof assistants and formal libraries, and AI systems are beginning to guide mathematical discovery in topology, representation theory, combinatorics, matrix multiplication, and geometry. These advances point toward automated mathematical discovery, in which AI helps automate parts of the research loop from conjecture generation to proof search, verification, and communication.
 
-- **Humans vs. machines**: How do human and machine mathematical reasoning differ, complement one another, or intersect?
-- **Measuring mathematical reasoning**: How do we design benchmarks that capture proof quality, robustness, creativity, and formal correctness?
-- **New capabilities**: How do we build AI agents that conjecture, explore, prove, formalize, and self-improve through reliable feedback?
-- **Auto-research and discovery**: Which parts of mathematical research can be automated, and how should human-AI teams divide labor?
-- **Education**: What roles can deep learning models play in mathematics education, especially where resources are limited?
-- **Applications**: What applications could AI-assisted mathematics enable in formal verification, software and hardware design, science, engineering, finance, education, and mathematics itself?
+This year, our central question is: *How can agentic AI systems advance mathematical research while remaining reliable collaborators for human mathematicians?* This theme links two priorities: building agents that can plan, use tools, conjecture, formalize, prove, verify, and learn from feedback; and designing human-AI workflows in which such agents extend mathematical judgment. To address this question, we aim to bring together diverse participants from different backgrounds, institutions, and disciplines into our workshop. Our objective is to foster a lively and constructive dialogue on areas related, but not limited, to the following:
+
+- **Humans vs. machines**: How do human mathematicians and agentic AI systems differ, complement one another, or collaborate as research partners?
+- **Measuring mathematical reasoning**: How do we measure modern agentic systems on super-human mathematical tasks—using traditional metrics such as accuracy and formal correctness, and going beyond them to proof quality, interaction with proof environments, robustness, and creativity?
+- **New capabilities**: How do we build AI agents that plan, use tools, conjecture, explore, prove, formalize, verify, and self-improve through reliable feedback?
+- **Automated mathematical discovery**: Which parts of the mathematical research loop can agents automate, and how should human-AI teams divide labor, especially in long-horizon or open-ended research settings?
+- **Education**: What roles can agentic AI systems play in mathematics education—tutoring, guiding exploration, and providing feedback—especially where resources are limited?
+- **Applications**: What applications could mathematical agents enable in formal verification, software and hardware design, science, engineering, finance, education, and mathematics itself?
 
 ### Important Dates 
 
@@ -28,7 +30,7 @@ This year, our workshop focuses more squarely on (but is not limited to) the int
 **Paper submission deadline**: August 29, 2026 (AoE) <br>
 **Author notification:** September 29, 2026 (AoE) <br>
 **Camera-ready deadline:** October 29, 2026 <br>
-**Workshop:** December 11–13, 2026 (TBD)
+**Workshop:** December 12–13, 2026 (TBD)
 
 
 ### Submission Requirements

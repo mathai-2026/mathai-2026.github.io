@@ -7,9 +7,9 @@ psong:
 kyang:
   name: "Kaiyu Yang"
   url: "https://yangky11.github.io/"
-  affiliation: "MiroMind"
+  affiliation: "Apodex"
   img: "kyang.jpg"
-  bio: "Kaiyu Yang is a Chief Scientist at MiroMind, working on enhancing AI's capabilities in mathematical reasoning by integrating formal systems such as Lean. His research explores how machine learning and large language models can generate mathematical conjectures, prove theorems, write verifiable code, and perform reasoning that combines natural and formal languages. He organized the MATH-AI Workshop at NeurIPS'23 & '25, and the Tutorial on Machine Learning for Theorem Proving at NeurIPS'23."
+  bio: "Kaiyu Yang is a Chief Scientist at Apodex, working on enhancing AI's capabilities in mathematical reasoning by integrating formal systems such as Lean. His research explores how machine learning and large language models can generate mathematical conjectures, prove theorems, write verifiable code, and perform reasoning that combines natural and formal languages. He organized the MATH-AI Workshop at NeurIPS'23 & '25, and the Tutorial on Machine Learning for Theorem Proving at NeurIPS'23."
 plu:
   name: "Pan Lu"
   url: "https://lupantech.github.io/"
