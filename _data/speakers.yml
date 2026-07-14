@@ -1,7 +1,7 @@
 ychoi:
     name: "Yejin Choi"
     url: "https://yejinc.github.io/"
-    affiliation: "Stanford University & NVIDIA"
+    affiliation: "Stanford & NVIDIA"
     img: "ychoi.jpg"
     bio: "Yejin Choi is the Dieter Schwarz Foundation Professor and HAI Senior Fellow at Stanford and a Senior Director at NVIDIA. She is MacArthur Fellow, AI2050 Senior Fellow, and named among Time 100 Most Influential People in AI in 2023. Her research studies language-model capabilities and limits, reasoning, knowledge discovery, symbolic methods, alignment, and AI safety."
 
@@ -22,7 +22,7 @@ jtenenbaum:
 tgowers:
     name: "Timothy Gowers"
     url: "https://www.dpmms.cam.ac.uk/~wtg10/"
-    affiliation: "University of Cambridge"
+    affiliation: "Cambridge"
     img: "tgowers.jpg"
     bio: "Timothy Gowers is the Royal Society Research Professor at the University of Cambridge. He is a Fields Medalist, Fellow of the Royal Society, and recipient of the Sylvester Medal. His research spans combinatorics, functional analysis, additive number theory, higher-order Fourier analysis, and new modes of mathematical collaboration in the AI era."
 
@@ -50,13 +50,13 @@ javigad:
 kellis:
     name: "Kevin Ellis"
     url: "https://www.cs.cornell.edu/~ellisk/"
-    affiliation: "Cornell University"
+    affiliation: "Cornell"
     img: "kellis.jpg"
     bio: "Kevin Ellis is an Assistant Professor of Computer Science at Cornell University and NSF CAREER award recipient. His research focuses on program synthesis, neuro-symbolic AI, library learning, abstraction, and systems that learn interpretable programs and concepts."
 
 namin:
     name: "Nada Amin"
     url: "https://namin.seas.harvard.edu/"
-    affiliation: "Harvard University"
+    affiliation: "Harvard"
     img: "namin.jpg"
     bio: "Nada Amin is an Assistant Professor of Computer Science at Harvard SEAS and recipient of a PLDI Distinguished Paper Award. Her research combines programming languages and AI to build correct-by-construction systems for program synthesis, proof synthesis, verification, and mathematical discovery."

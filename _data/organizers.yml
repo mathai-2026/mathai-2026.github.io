@@ -13,25 +13,25 @@ kyang:
 plu:
   name: "Pan Lu"
   url: "https://lupantech.github.io/"
-  affiliation: "Stanford University"
+  affiliation: "Stanford"
   img: "plu.jpg"
   bio: "Pan Lu is a Postdoctoral Scholar at Stanford University. He received his Ph.D. in Computer Science from UCLA. His research focuses on machine reasoning, particularly in mathematical reasoning and scientific discovery. He has received various awards, including ACL 2023 Best Paper Honorable Mention, KnowledgeNLP Workshop 2025 Best Paper Award, Most Influential NeurIPS Papers, Amazon PhD Fellowship, Bloomberg PhD Fellowship, and Qualcomm Innovation Fellowship. He served as senior program chair for NENLP'25 and program chair for SoCal NLP'23. He has extensive experience in organizing workshops, including the MATH-AI Workshop at NeurIPS from 2022 to 2025 and the AI for Math Workshop at ICML'24."
 pshafto:
   name: "Patrick Shafto"
   url: "https://patrickshafto.com/"
-  affiliation: "Rutgers University"
+  affiliation: "DARPA & Rutgers"
   img: "pshafto.jpg"
   bio: "Patrick Shafto is a Professor of Mathematics and Computer Science at Rutgers University. His research focuses on the computational principles of human learning, reasoning, communication, and scientific discovery, spanning cognitive science, artificial intelligence, and machine learning. He is a Fellow of the Cognitive Science Society and co-organized the IPAM long program on Mathematics of Intelligences in Fall 2024. He has also organized or co-organized 9 conferences, symposia, and workshops on explanation, guided learning, pedagogical reasoning, and inductive reasoning."
 sarora:
   name: "Sanjeev Arora"
   url: "https://www.cs.princeton.edu/~arora/"
-  affiliation: "Princeton University"
+  affiliation: "Princeton"
   img: "sarora.jpg"
   bio: "Sanjeev Arora is a Professor of Computer Science at Princeton University, where he did foundational work in theoretical computer science, complexity theory, and machine learning theory. He has received major honors such as the Gödel Prize, ACM Prize in Computing, and election to the National Academy of Sciences. He is also a founding director of Princeton Language and Intelligence (PLI)."
 kcollins:
   name: "Katie Collins"
   url: "https://collinskatie.github.io/"
-  affiliation: "MIT & Princeton University & Cambridge University"
+  affiliation: "MIT & Princeton & Cambridge"
   img: "kcollins.jpg"
   bio: "Katie Collins is a postdoctoral fellow in the Computational Cognitive Science Group at MIT and a visiting postdoc at the Princeton AI Lab. Her research focuses on cognitive science, artificial intelligence, human-AI interaction, and mathematical reasoning, including evaluating language models for mathematics through interactions with mathematicians. She organized the MATH-AI Workshop at NeurIPS'23."
 swelleck:
@@ -43,6 +43,6 @@ swelleck:
 mjamnik:
   name: "Mateja Jamnik"
   url: "https://www.cl.cam.ac.uk/~mj201/"
-  affiliation: "University of Cambridge"
+  affiliation: "Cambridge"
   img: "mjamnik.jpg"
   bio: "Mateja Jamnik is a Professor of Artificial Intelligence in the Department of Computer Science and Technology at the University of Cambridge and an associate fellow of the Leverhulme Centre for the Future of Intelligence. Her research focuses on human-like AI, automated reasoning, diagrammatic reasoning, knowledge representation, theorem proving, explainable AI, and cognitive science. She founded the women@CL initiative, serves on the UK Home Office Science Advisory Council, and previously served as Specialist Adviser to the House of Lords Select Committee on Artificial Intelligence."
