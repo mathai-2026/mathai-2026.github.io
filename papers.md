@@ -10,9 +10,7 @@ use-site-title: true
 
 # Accepted Papers
 
-Accepted papers will be posted here after notification (September 29, 2026).
-
-The list of accepted papers will also be available on OpenReview once the review process is complete (link coming soon).
+Accepted papers will be posted here after decisions are made.
 
 <!-- # Reviewers
 

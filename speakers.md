@@ -10,8 +10,6 @@ use-site-title: true
 
 # Speakers & Panelists
 
-We have invited 9 speakers and panelists. The final arrangement of talks and panels will be determined based on their preferences and scheduling constraints.
-
 <div class="container" style="margin-top: 25px;margin-bottom: 40px;">
   {% for p in site.data.speakers %}
   {% if forloop.index<15 %}
