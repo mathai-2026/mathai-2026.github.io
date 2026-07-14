@@ -31,7 +31,7 @@ sarora:
 kcollins:
   name: "Katie Collins"
   url: "https://collinskatie.github.io/"
-  affiliation: "MIT & Princeton University"
+  affiliation: "MIT & Princeton University & Cambridge University"
   img: "kcollins.jpg"
   bio: "Katie Collins is a postdoctoral fellow in the Computational Cognitive Science Group at MIT and a visiting postdoc at the Princeton AI Lab. Her research focuses on cognitive science, artificial intelligence, human-AI interaction, and mathematical reasoning, including evaluating language models for mathematics through interactions with mathematicians. She organized the MATH-AI Workshop at NeurIPS'23."
 swelleck:
