@@ -5,7 +5,7 @@ subtitle: "The 6th Workshop on Mathematical Reasoning and AI"
 use-site-title: true
 ---
 <div class="venue" style="font-size: 27px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
-  NeurIPS 2026, Atlanta, December 12–13, 2026 (exact date &amp; room TBD)
+  NeurIPS 2026, Atlanta, December 12 or 13, 2026 (exact date &amp; room TBA)
 </div>
 
 
@@ -14,8 +14,9 @@ use-site-title: true
 <div class="sharethis-inline-share-buttons"></div>
 <meta name="thumbnail" content="./img/neurips-logo-new.jpg" />
 
-<!-- # News -->
-<!-- * The <a href="https://mathai-2026.github.io/cfp/">call for papers</a> is now open! -->
+# News
+
+* We are delighted to announce that MATH-AI 2026 has been accepted as a NeurIPS 2026 workshop in Atlanta.
 
 
 # Overview

@@ -8,10 +8,10 @@ use-site-title: true
   NeurIPS 2026, Atlanta, December 12 or 13, 2026 (exact date &amp; room TBD)
 </div>
 
-# Speakers & Panelists
+# Organizers
 
 <div class="container" style="margin-top: 25px;margin-bottom: 40px;">
-  {% for p in site.data.speakers %}
+  {% for p in site.data.organizers %}
   {% if forloop.index<15 %}
   <div class="row">
     <div class="col-sm">

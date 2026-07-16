@@ -5,7 +5,7 @@ subtitle: "The 6th Workshop on Mathematical Reasoning and AI"
 use-site-title: true
 ---
 <div class="venue" style="font-size: 27px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
-  NeurIPS 2026, Atlanta, December 12–13, 2026 (exact date &amp; room TBD)
+  NeurIPS 2026, Atlanta, December 12 or 13, 2026 (exact date &amp; room TBA)
 </div>
 
 
@@ -26,11 +26,11 @@ This year, our central question is: *How can agentic AI systems advance mathemat
 
 ### Important Dates 
 
-**Paper submission opens:** July 23, 2026 <br>
+**Paper submission opens:** TBA <br>
 **Paper submission deadline**: August 29, 2026 (AoE) <br>
 **Author notification:** September 29, 2026 (AoE) <br>
 **Camera-ready deadline:** October 29, 2026 <br>
-**Workshop:** December 12–13, 2026 (TBD)
+**Workshop:** December 12 or 13, 2026 (TBA)
 
 
 ### Submission Requirements
