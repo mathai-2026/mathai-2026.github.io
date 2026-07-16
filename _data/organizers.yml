@@ -3,7 +3,7 @@ psong:
   url: "https://peiyang-song.github.io/"
   affiliation: "CMU"
   img: "psong.jpg"
-  bio: "Peiyang Song is a PhD student at the Carnegie Mellon University. His research focuses on mathematical reasoning, theorem proving, and natural language reasoning, with an emphasis on integrating formal systems and large language models. He has received various awards, including NeurIPS LAW Workshop Best Paper Honorable Mention and IEEE Micro Top Pick Award."
+  bio: "Peiyang Song is a PhD student at Carnegie Mellon University. His research focuses on mathematical reasoning, theorem proving, and natural language reasoning, with an emphasis on integrating formal systems and large language models. He has received various awards, including an IEEE Micro Top Pick Award, a Best Paper Award at the ICML CTB Workshop, and a Best Paper Honorable Mention at the NeurIPS LAW Workshop. He was also a lead instructor for the Tutorial on Neuro-Symbolic Theorem Proving with Lean at the 3rd Neuro-Symbolic AI Summer School (NSSS)."
 kyang:
   name: "Kaiyu Yang"
   url: "https://yangky11.github.io/"
@@ -21,7 +21,7 @@ pshafto:
   url: "https://patrickshafto.com/"
   affiliation: "DARPA & Rutgers"
   img: "pshafto.jpg"
-  bio: "Patrick Shafto is a Professor of Mathematics and Computer Science at Rutgers University. His research focuses on the computational principles of human learning, reasoning, communication, and scientific discovery, spanning cognitive science, artificial intelligence, and machine learning. He is a Fellow of the Cognitive Science Society and co-organized the IPAM long program on Mathematics of Intelligences in Fall 2024. He has also organized or co-organized 9 conferences, symposia, and workshops on explanation, guided learning, pedagogical reasoning, and inductive reasoning."
+  bio: "Patrick Shafto is a Professor of Mathematics and Computer Science at Rutgers University, a Program Manager at DARPA, and the Founder and Scientist-at-Large at Redpoll. His research focuses on the computational principles of human learning, reasoning, communication, and scientific discovery, spanning cognitive science, artificial intelligence, and machine learning. He is a Fellow of the Cognitive Science Society and co-organized the IPAM long program on Mathematics of Intelligences in Fall 2024. He has also organized or co-organized 9 conferences, symposia, and workshops on explanation, guided learning, pedagogical reasoning, and inductive reasoning."
 sarora:
   name: "Sanjeev Arora"
   url: "https://www.cs.princeton.edu/~arora/"
@@ -33,7 +33,7 @@ kcollins:
   url: "https://collinskatie.github.io/"
   affiliation: "MIT & Princeton & Cambridge"
   img: "kcollins.jpg"
-  bio: "Katie Collins is a postdoctoral fellow in the Computational Cognitive Science Group at MIT and a visiting postdoc at the Princeton AI Lab. Her research focuses on cognitive science, artificial intelligence, human-AI interaction, and mathematical reasoning, including evaluating language models for mathematics through interactions with mathematicians. She organized the MATH-AI Workshop at NeurIPS'23."
+  bio: "Katie Collins is a postdoctoral fellow in the Computational Cognitive Science Group at MIT, a visiting postdoc at the Princeton AI Lab, and a Research Affiliate at the Centre for Human-Inspired AI at the University of Cambridge. Her research focuses on cognitive science, artificial intelligence, human-AI interaction, and mathematical reasoning, including evaluating language models for mathematics through interactions with mathematicians. She organized the MATH-AI Workshop at NeurIPS'23."
 swelleck:
   name: "Sean Welleck"
   url: "https://wellecks.com/"
