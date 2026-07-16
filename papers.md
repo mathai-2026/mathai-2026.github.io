@@ -12,29 +12,7 @@ use-site-title: true
 
 Accepted papers will be posted here after decisions are made.
 
-<!-- # Reviewers
+# Reviewers
 
-We are grateful to our program committee for making our workshop reviewing process run smoothly. 
+Reviewer acknowledgements will be posted here shortly before the workshop.
 
-<div class="reviewers">
-<ul>
-{% for reviewer in site.data.pc.people %}
-    <li>{{ reviewer }}</li>
-{% endfor %}
-</ul>
-</div>
-
-<style>
-.reviewers ul {
-    columns: 4;
-    -webkit-columns: 4;
-    -moz-columns: 4;
-    list-style-position: inside;
-    padding-left: 0;
-}
-.reviewers li {
-    break-inside: avoid;
-    page-break-inside: avoid;
-    padding: 2px 0;
-}
-</style> -->
