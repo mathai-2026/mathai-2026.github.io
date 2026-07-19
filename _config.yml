@@ -18,11 +18,11 @@ description: Math-AI
 
 # List of links in the navigation bar
 navbar-links:  
-  Call: "cfp"
+  # Call: "cfp"
   # Dates: "#dates"
   Speakers & Panelists: "speakers"
   Organizers: "organizers"
-  Papers: "papers"
+  # Papers: "papers"
   Schedule: "schedule"
   # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   # - Learn markdown: "http://www.markdowntutorial.com/"

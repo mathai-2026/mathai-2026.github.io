@@ -27,8 +27,8 @@ This year, our central question is: *How can agentic AI systems advance mathemat
 ### Important Dates 
 
 **Paper submission opens:** TBA <br>
-**Paper submission deadline**: August 29, 2026 (AoE) <br>
-**Author notification:** September 29, 2026 (AoE) <br>
+**Paper submission deadline**: September 27, 2026 (AoE) <br>
+**Author notification:** October 19, 2026 (AoE) <br>
 **Camera-ready deadline:** October 29, 2026 <br>
 **Workshop:** December 12 or 13, 2026 (TBA)
 
@@ -41,7 +41,7 @@ LaTeX template: **Coming soon.** Submissions should use the NeurIPS 2026 worksho
 
 All accepted papers will be presented in an in-person poster session, and some will be selected for oral presentation. **Previously published work (including NeurIPS 2026) is not allowed.** Accepted papers will be displayed on the MATH-AI 2026 homepage, but are to be considered **non-archival**.
 
-Submission site: **Coming soon** on OpenReview. If you haven't already, we recommend creating an OpenReview profile as soon as possible, as new profile creation can take up to two weeks in some cases. **We strongly recommend registering your abstract on OpenReview before the tentative submission deadline (August 29) so that you will be notified in case of a deadline extension.**
+Submission site: **Coming soon** on OpenReview. If you haven't already, we recommend creating an OpenReview profile as soon as possible, as new profile creation can take up to two weeks in some cases. **We strongly recommend registering your abstract on OpenReview before the tentative submission deadline (September 27) so that you will be notified in case of a deadline extension.**
 
 
 ### Reviewing Process
