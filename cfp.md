@@ -11,18 +11,18 @@ use-site-title: true
 
 # Call for Papers
 
-Mathematical reasoning is central to science, engineering, finance, education, and mathematics itself. Since the first MATH-AI workshop, the field has moved from asking whether large language models (LLMs) can solve mathematical problems to asking how AI systems can participate across the gamut of mathematical research: proposing conjectures, searching for examples and counterexamples, formalizing arguments, proving theorems, designing algorithms, and collaborating with human researchers.
+Mathematical reasoning is central to science, engineering, finance, education, and mathematics itself. Since the first MATH-AI workshop, the field has moved from asking whether large language models (LLMs) can solve mathematical problems to asking how AI systems can participate across the full range of mathematical research: proposing conjectures, searching for examples and counterexamples, formalizing arguments, proving theorems, designing algorithms, and collaborating with human researchers.
 
 This year, our workshop focuses more squarely on (but is not limited to) the intersection of agentic AI and mathematical reasoning. Recent progress makes this an especially timely moment: AI systems have achieved super-human results on competition-style and formal mathematical reasoning tasks, autoformalization is connecting natural mathematical language with proof assistants and formal libraries, and AI systems are beginning to guide mathematical discovery in topology, representation theory, combinatorics, matrix multiplication, and geometry. These advances point toward automated mathematical discovery, in which AI helps automate parts of the research loop from conjecture generation to proof search, verification, and communication.
 
 This year, our central question is: *How can agentic AI systems advance mathematical research while remaining reliable collaborators for human mathematicians?* This theme links two priorities: building agents that can plan, use tools, conjecture, formalize, prove, verify, and learn from feedback; and designing human-AI workflows in which such agents extend mathematical judgment. To address this question, we aim to bring together diverse participants from different backgrounds, institutions, and disciplines into our workshop. Our objective is to foster a lively and constructive dialogue on areas related, but not limited, to the following:
 
-- **Humans vs. machines**: How do human mathematicians and agentic AI systems differ, complement one another, or collaborate as research partners?
-- **Measuring mathematical reasoning**: How do we measure modern agentic systems on super-human mathematical tasks—using traditional metrics such as accuracy and formal correctness, and going beyond them to proof quality, interaction with proof environments, robustness, and creativity?
-- **New capabilities**: How do we build AI agents that plan, use tools, conjecture, explore, prove, formalize, verify, and self-improve through reliable feedback?
-- **Automated mathematical discovery**: Which parts of the mathematical research loop can agents automate, and how should human-AI teams divide labor, especially in long-horizon or open-ended research settings?
-- **Education**: What roles can agentic AI systems play in mathematics education—tutoring, guiding exploration, and providing feedback—especially where resources are limited?
-- **Applications**: What applications could mathematical agents enable in formal verification, software and hardware design, science, engineering, finance, education, and mathematics itself?
+- **Humans vs. machines**: What are the comparative strengths, limitations, and characteristic failure modes of human mathematicians and AI systems? Which aspects of mathematical reasoning, judgment, and creativity remain distinctively human or machine?
+- **Building reliable mathematical agents**: What architectures, training methods, memory systems, tool interfaces, and feedback mechanisms enable agents to plan over long horizons, recover from errors, and operate reliably in mathematical environments?
+- **Evaluating mathematical agents**: How should we evaluate agents on advanced and open-ended mathematical tasks—beyond answer accuracy and formal correctness—to capture proof quality, robustness, creativity, efficiency, and effective use of tools and feedback?
+- **Automated mathematical research**: Which parts of the mathematical research process can agents conduct autonomously—from problem selection and experimentation to conjecture refinement and verification—and how should human researchers supervise, redirect, and collaborate with them?
+- **Education**: What roles can agentic AI systems play in mathematics education—tutoring, guiding exploration, and providing feedback—especially where expert instruction and educational resources are limited?
+- **Cross-domain applications**: How can mathematical agents enable progress in formal verification, software and hardware design, science, engineering, finance, and other domains that depend on complex mathematical reasoning?
 
 ### Important Dates 
 
