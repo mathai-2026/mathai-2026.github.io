@@ -46,7 +46,7 @@ Submission site: **Coming soon** on OpenReview. If you haven't already, we recom
 
 ### Reviewing Process
 
-We are committed to a rigorous and fair evaluation of all submissions. Reviewers must declare both domain and individual conflicts before review assignments are made. Two to three organizers will serve as publication chairs, making final decisions based on reviews. Chairs will recuse themselves from any submission with which they have a conflict, as identified by OpenReview. Each submission will receive at least three reviews, and there will be no rebuttal phase. Final decisions will rely heavily on reviewer feedback; exceptions will be made only in rare cases and must be approved by at least two non-conflicted organizers.
+This workshop uses reciprocal reviewing: by submitting a paper, authors agree to review a small number of other submissions. We are committed to a rigorous and fair evaluation of all submissions. Reviewers must declare both domain and individual conflicts before review assignments are made. Two to three organizers will serve as publication chairs, making final decisions based on reviews. Chairs will recuse themselves from any submission with which they have a conflict, as identified by OpenReview. Each submission will receive at least three reviews, and there will be no rebuttal phase. Final decisions will rely heavily on reviewer feedback; exceptions will be made only in rare cases and must be approved by at least two non-conflicted organizers.
 
 ### Camera-ready Requirements
 
