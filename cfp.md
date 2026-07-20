@@ -27,9 +27,9 @@ This year, our central question is: *How can agentic AI systems advance mathemat
 ### Important Dates 
 
 **Paper submission opens:** TBA <br>
-**Paper submission deadline**: September 27, 2026 (AoE) <br>
+**Paper submission deadline**: September 25, 2026 (AoE) <br>
 **Author notification:** October 19, 2026 (AoE) <br>
-**Camera-ready deadline:** October 29, 2026 <br>
+**Camera-ready deadline:** October 29, 2026 (AoE) <br>
 **Workshop:** December 12 or 13, 2026 (TBA)
 
 
@@ -37,11 +37,11 @@ This year, our central question is: *How can agentic AI systems advance mathemat
 
 Submissions to MATH-AI 2026 are limited to **4 pages** of content in the NeurIPS format, but may contain an unlimited number of pages for references and supplementary materials. The latter may not necessarily be read by the reviewers. We request and recommend that authors rely on the supplementary material only to include minor details (e.g., hyperparameter settings, reproducibility information, etc.) that do not fit in the 4 pages. The review process is double-blind, so please ensure that all papers are appropriately anonymised.
 
-LaTeX template: **Coming soon.** Submissions should use the NeurIPS 2026 workshop format. Please use <code>\usepackage[dblblindworkshop]{neurips_2026}</code> for submission and <code>\usepackage[dblblindworkshop, final]{neurips_2026}</code> for the camera-ready version once the template is posted.
+LaTeX template: **[Download the MATH-AI NeurIPS 2026 template](/files/mathai_neurips2026_template.zip).** Submissions should use the NeurIPS 2026 workshop format. Please use <code>\usepackage[dblblindworkshop]{neurips_2026}</code> for submission and <code>\usepackage[dblblindworkshop, final]{neurips_2026}</code> for the camera-ready version.
 
-All accepted papers will be presented in an in-person poster session, and some will be selected for oral presentation. **Previously published work (including NeurIPS 2026) is not allowed.** Accepted papers will be displayed on the MATH-AI 2026 homepage, but are to be considered **non-archival**.
+All accepted papers will be presented in an in-person poster session, and some will be selected for oral presentation. **Previously published work (including NeurIPS 2026) is not allowed.** Accepted papers will be displayed on the MATH-AI 2026 [Papers](/papers) page, but are to be considered **non-archival**.
 
-Submission site: **Coming soon** on OpenReview. If you haven't already, we recommend creating an OpenReview profile as soon as possible, as new profile creation can take up to two weeks in some cases. **We strongly recommend registering your abstract on OpenReview before the tentative submission deadline (September 27) so that you will be notified in case of a deadline extension.**
+Submission site: **Coming soon** on OpenReview. If you haven't already, we recommend creating an OpenReview profile as soon as possible, as new profile creation can take up to two weeks in some cases.
 
 
 ### Reviewing Process
