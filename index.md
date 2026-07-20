@@ -16,6 +16,7 @@ use-site-title: true
 
 # News
 
+* We are calling for reviewers! Please nominate yourself or others via our [reviewer nomination form](https://docs.google.com/forms/d/e/1FAIpQLSenuh8uLvudlAA0ifF-pGU_XjpgU7CINQBFeDC0Acq_tIq2YQ/viewform?usp=header).
 * We are delighted to announce that MATH-AI 2026 has been accepted as a NeurIPS 2026 workshop in Atlanta.
 
 
