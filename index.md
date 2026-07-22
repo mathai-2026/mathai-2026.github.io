@@ -106,4 +106,4 @@ Sponsor information will be posted soon. -->
 
 <hr>
 
-Contact: <psong2@andrew.cmu.edu>.
+Contact: <mathai.neurips2026@gmail.com>.

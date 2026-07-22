@@ -52,4 +52,4 @@ This workshop uses reciprocal reviewing: by submitting a paper, authors agree to
 
 The final version of all accepted papers will be given one additional page of content (up to 5 pages) so that reviewers' comments can be taken into account.
 
-Please email any inquiries to [psong2@andrew.cmu.edu](mailto:psong2@andrew.cmu.edu).
+Please email any inquiries to [mathai.neurips2026@gmail.com](mailto:mathai.neurips2026@gmail.com).
