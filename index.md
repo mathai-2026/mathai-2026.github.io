@@ -20,6 +20,17 @@ use-site-title: true
 * We are calling for reviewers! Please nominate yourself or others via our [reviewer nomination form](https://docs.google.com/forms/d/e/1FAIpQLSenuh8uLvudlAA0ifF-pGU_XjpgU7CINQBFeDC0Acq_tIq2YQ/viewform?usp=header).
 * We are delighted to announce that MATH-AI 2026 has been accepted as a NeurIPS 2026 workshop in Atlanta.
 
+# Key Dates
+
+**Paper submission opens:** July 25, 2026 <br>
+**Paper submission deadline:** September 25, 2026 (AoE) <br>
+**Reviewing deadline:** October 9, 2026 (AoE) <br>
+**Author notification:** October 19, 2026 (AoE) <br>
+**Camera-ready deadline:** October 29, 2026 (AoE) <br>
+**Workshop:** December 12 or 13, 2026 (TBA)
+
+See the [call for papers](/cfp) for full submission details.
+
 
 # Overview
 
@@ -58,6 +69,7 @@ This year, our central question is: *How can agentic AI systems advance mathemat
     {% endfor %}
   </div>
 </div>
+<p style="text-align: center; margin-top: 10px;"><a href="/speakers">See all speakers &amp; panelists →</a></p>
 
 <hr>
 

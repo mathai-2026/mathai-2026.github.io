@@ -1,18 +1,15 @@
 # --- General options --- #
 
 
-# If you are building a GitHub project page then use these settings:
-#url: "mathai-iclr.github.io"
-#baseurl: ""
-
-# Of course don't forget to change the username and projectname to YOUR username and project
+url: "https://mathai-2026.github.io"
+baseurl: ""
 
 # Name of website
 title: 6th MATH-AI Workshop at NeurIPS'26
 
 
 # Short description of your site
-description: Math-AI
+description: "The 6th Workshop on Mathematical Reasoning and AI at NeurIPS 2026"
 
 # --- Navigation bar options --- #
 
@@ -154,7 +151,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/TBD, Atlanta"
+timezone: "America/New_York"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/

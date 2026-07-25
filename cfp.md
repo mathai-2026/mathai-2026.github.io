@@ -28,6 +28,7 @@ This year, our central question is: *How can agentic AI systems advance mathemat
 
 **Paper submission opens:** July 25, 2026 <br>
 **Paper submission deadline**: September 25, 2026 (AoE) <br>
+**Reviewing deadline:** October 9, 2026 (AoE) <br>
 **Author notification:** October 19, 2026 (AoE) <br>
 **Camera-ready deadline:** October 29, 2026 (AoE) <br>
 **Workshop:** December 12 or 13, 2026 (TBA)
@@ -46,7 +47,7 @@ Submission site: **[OpenReview](https://openreview.net/group?id=NeurIPS.cc/2026/
 
 ### Reviewing Process
 
-This workshop uses reciprocal reviewing: by submitting a paper, authors agree to review a small number of other submissions. We are committed to a rigorous and fair evaluation of all submissions. Reviewers must declare both domain and individual conflicts before review assignments are made. Two to three organizers will serve as publication chairs, making final decisions based on reviews. Chairs will recuse themselves from any submission with which they have a conflict, as identified by OpenReview. Each submission will receive at least three reviews, and there will be no rebuttal phase. Final decisions will rely heavily on reviewer feedback; exceptions will be made only in rare cases and must be approved by at least two non-conflicted organizers. Outstanding reviewers will receive an Outstanding Reviewer Award, and all reviewers will be publicly acknowledged on our website unless they opt out.
+This workshop uses reciprocal reviewing: by submitting a paper, authors agree to review a small number of other submissions. We are also calling for additional reviewers: please nominate yourself or others via our [reviewer nomination form](https://docs.google.com/forms/d/e/1FAIpQLSenuh8uLvudlAA0ifF-pGU_XjpgU7CINQBFeDC0Acq_tIq2YQ/viewform?usp=header). We are committed to a rigorous and fair evaluation of all submissions. Reviewers must declare both domain and individual conflicts before review assignments are made. Two to three organizers will serve as publication chairs, making final decisions based on reviews. Chairs will recuse themselves from any submission with which they have a conflict, as identified by OpenReview. Each submission will receive at least three reviews, and there will be no rebuttal phase. Final decisions will rely heavily on reviewer feedback; exceptions will be made only in rare cases and must be approved by at least two non-conflicted organizers. Outstanding reviewers will receive an Outstanding Reviewer Award, and all reviewers will be publicly acknowledged on our website unless they opt out.
 
 ### Camera-ready Requirements
 
