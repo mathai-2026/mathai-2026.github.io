@@ -69,7 +69,6 @@ This year, our central question is: *How can agentic AI systems advance mathemat
     {% endfor %}
   </div>
 </div>
-<p style="text-align: center; margin-top: 10px;"><a href="/speakers">See all speakers &amp; panelists →</a></p>
 
 <hr>
 
