@@ -16,6 +16,7 @@ use-site-title: true
 
 # News
 
+* **Timeline update (Aug 25, 2026):** Due to NeurIPS paper-import deadlines and related conference updates this year, we are adjusting our schedule and cannot extend submissions as late into September as in prior years (when we aimed to accommodate concurrent ICLR submissions). **Paper submissions are now due September 6, 2026 (AoE)**; reviews are due September 20; author notification by September 29 (all AoE). We still welcome **4-page** submissions—please submit preliminary drafts if needed. Full details are on the [call for papers](/cfp).
 * Join our [Discord](https://discord.gg/A8GfNhhCT) server to stay up to date with MATH-AI announcements, news, and discussions, and connect with fellow members of the community.
 * The [call for papers](/cfp) is now open! Submit on [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/MATH-AI).
 * We are calling for reviewers! Please nominate yourself or others via our [reviewer nomination form](https://docs.google.com/forms/d/e/1FAIpQLSenuh8uLvudlAA0ifF-pGU_XjpgU7CINQBFeDC0Acq_tIq2YQ/viewform?usp=header).
@@ -24,10 +25,10 @@ use-site-title: true
 # Key Dates
 
 **Paper submission opens:** July 25, 2026 <br>
-**Paper submission deadline:** September 25, 2026 (AoE) <br>
-**Reviewing deadline:** October 9, 2026 (AoE) <br>
-**Author notification:** October 19, 2026 (AoE) <br>
-**Camera-ready deadline:** October 29, 2026 (AoE) <br>
+**Paper submission deadline:** September 6, 2026 (AoE) <br>
+**Reviewing deadline:** September 20, 2026 (AoE) <br>
+**Author notification:** September 29, 2026 (AoE) <br>
+**Camera-ready deadline:** October 3, 2026 (AoE) <br>
 **Workshop:** December 12 or 13, 2026 (TBA)
 
 See the [call for papers](/cfp) for full submission details.
