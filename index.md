@@ -120,4 +120,4 @@ Sponsor information will be posted soon. -->
 
 <hr>
 
-Contact: <mathai.neurips2026@gmail.com>.
+Contact: <mathai.neurips@gmail.com>.

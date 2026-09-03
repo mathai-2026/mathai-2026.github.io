@@ -42,7 +42,7 @@ Submissions to MATH-AI 2026 are limited to **4 pages** of content in the NeurIPS
 
 LaTeX template: **[Download the MATH-AI NeurIPS 2026 template](/files/mathai_neurips2026_template.zip).** Submissions should use the NeurIPS 2026 workshop format. Please use <code>\usepackage[dblblindworkshop]{neurips_2026}</code> for submission and <code>\usepackage[dblblindworkshop, final]{neurips_2026}</code> for the camera-ready version.
 
-All accepted papers will be presented in an in-person poster session, and some will be selected for oral presentation. **Previously published work (including NeurIPS 2026) is not allowed.** Accepted papers will be displayed on the MATH-AI 2026 [Papers](/papers) page, but are to be considered **non-archival**. We will select one **Best Paper Award** and up to three **Best Paper Honorable Mentions**.
+All accepted papers will be presented in an in-person poster session, and some will be selected for oral presentation. **Previously published work (including NeurIPS 2026) is not allowed.** Preprints on services such as arXiv or other non-archival workshops do not count as prior publication. Accepted papers will be displayed on the MATH-AI 2026 [Papers](/papers) page, but are to be considered **non-archival**. We will select one **Best Paper Award** and up to three **Best Paper Honorable Mentions**.
 
 Submission site: **[OpenReview](https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/MATH-AI)**. If you haven't already, we recommend creating an OpenReview profile as soon as possible, as new profile creation can take up to two weeks in some cases.
 
@@ -55,4 +55,4 @@ This workshop uses reciprocal reviewing: for each submission, at least one autho
 
 The final version of all accepted papers will be given one additional page of content (up to 5 pages) so that reviewers' comments can be taken into account.
 
-Please email any inquiries to [mathai.neurips2026@gmail.com](mailto:mathai.neurips2026@gmail.com).
+Please email any inquiries to [mathai.neurips@gmail.com](mailto:mathai.neurips@gmail.com).
