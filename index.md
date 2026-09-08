@@ -5,7 +5,7 @@ subtitle: "The 6th Workshop on Mathematical Reasoning and AI"
 use-site-title: true
 ---
 <div class="venue" style="font-size: 27px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
-  NeurIPS 2026, Atlanta, December 12 or 13, 2026 (exact date &amp; room TBA)
+  NeurIPS 2026, Atlanta Hall C3, Saturday, December 12, 2026
 </div>
 
 
@@ -29,7 +29,7 @@ use-site-title: true
 **Reviewing deadline:** September 20, 2026 (AoE) <br>
 **Author notification:** September 29, 2026 (AoE) <br>
 **Camera-ready deadline:** October 3, 2026 (AoE) <br>
-**Workshop:** December 12 or 13, 2026 (TBA)
+**Workshop:** Saturday, December 12, 2026, Atlanta Hall C3
 
 See the [call for papers](/cfp) for full submission details.
 
