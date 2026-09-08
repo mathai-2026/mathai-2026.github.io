@@ -1,10 +1,3 @@
-ychoi:
-    name: "Yejin Choi"
-    url: "https://yejinc.github.io/"
-    affiliation: "Stanford & NVIDIA"
-    img: "ychoi.jpg"
-    bio: "Yejin Choi is the Dieter Schwarz Foundation Professor and HAI Senior Fellow at Stanford and a Senior Director at NVIDIA. She is MacArthur Fellow, AI2050 Senior Fellow, and named among Time 100 Most Influential People in AI in 2023. Her research studies language-model capabilities and limits, reasoning, knowledge discovery, symbolic methods, alignment, and AI safety."
-
 sbubeck:
     name: "Sébastien Bubeck"
     url: "https://sbubeck.com/"
