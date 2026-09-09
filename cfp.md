@@ -30,7 +30,7 @@ This year, our central question is: *How can agentic AI systems advance mathemat
 **Paper submission deadline**: September 6, 2026 (AoE) <br>
 **Reviewing deadline:** September 20, 2026 (AoE) <br>
 **Author notification:** September 29, 2026 (AoE) <br>
-**Camera-ready deadline:** October 3, 2026 (AoE) <br>
+**Camera-ready deadline:** October 2, 2026 (AoE) <br>
 **Workshop:** Saturday, December 12, 2026, Atlanta Hall C3
 
 Due to NeurIPS paper-import policies and related updates this year, we cannot extend the submission deadline as late into September as in prior years (when we aimed to accommodate concurrent ICLR submissions). We still welcome **4-page** submissions and encourage authors to submit preliminary drafts to our workshop.

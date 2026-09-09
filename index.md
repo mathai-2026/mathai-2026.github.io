@@ -26,7 +26,7 @@ use-site-title: true
 **Paper submission deadline:** September 6, 2026 (AoE) <br>
 **Reviewing deadline:** September 20, 2026 (AoE) <br>
 **Author notification:** September 29, 2026 (AoE) <br>
-**Camera-ready deadline:** October 3, 2026 (AoE) <br>
+**Camera-ready deadline:** October 2, 2026 (AoE) <br>
 **Workshop:** Saturday, December 12, 2026, Atlanta Hall C3
 
 See the [call for papers](/cfp) for full submission details.
