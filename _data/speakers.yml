@@ -1,9 +1,9 @@
-sbubeck:
-    name: "Sébastien Bubeck"
-    url: "https://sbubeck.com/"
-    affiliation: "OpenAI"
-    img: "sbubeck.jpg"
-    bio: "Sébastien Bubeck is a researcher at OpenAI. He is Alfred P. Sloan Research Fellow, and recipient of multiple Best Paper Awards. His research spans the foundations of deep learning, optimization, language-model reasoning, scientific discovery with AI, and the limits of machine intelligence."
+xsi:
+    name: "Xujie Si"
+    url: "https://www.cs.toronto.edu/~six/"
+    affiliation: "University of Toronto"
+    img: "xsi.jpg"
+    bio: "Xujie Si is an Assistant Professor in the Department of Computer Science at the University of Toronto, and a faculty affiliate at the Vector Institute and an affiliate member at Mila - Quebec AI Institute. He was recognized as a Canada CIFAR AI Chair, and has won best paper awards at PLDI and CSAW. His research focuses on developing machine learning techniques to address various reasoning challenges such as auto-(in)formalization, theorem proving, program verification, and program synthesis."
 
 jtenenbaum:
     name: "Josh Tenenbaum"
