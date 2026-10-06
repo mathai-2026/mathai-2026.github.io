@@ -53,3 +53,10 @@ namin:
     affiliation: "Harvard"
     img: "namin.jpg"
     bio: "Nada Amin is an Assistant Professor of Computer Science at Harvard SEAS and recipient of a PLDI Distinguished Paper Award. Her research combines programming languages and AI to build correct-by-construction systems for program synthesis, proof synthesis, verification, and mathematical discovery."
+
+vganesh:
+    name: "Vijay Ganesh"
+    url: "https://vganesh1.github.io/"
+    affiliation: "Georgia Tech"
+    img: "vganesh.jpg"
+    bio: "Vijay Ganesh is a Professor of Computer Science at Georgia Tech, Associate Director of the IDEaS Institute, and Founder and Director of the AI4Math Center. His research focuses on the theory and practice of SAT and SMT solvers, machine learning for logic, neuro-symbolic AI for mathematical discovery, proof complexity, software engineering, and security."
