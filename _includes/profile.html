@@ -10,6 +10,9 @@
   </div>
   <div class="profile-info">
     <a href="{{ include.p[1].url }}">{{ include.p[1].name }}</a>
+    {% if include.p[1].status %}
+    <div class="profile-status"><em>{{ include.p[1].status }}</em></div>
+    {% endif %}
     <div class="profile-affiliation">{{ include.p[1].affiliation }}</div>
   </div>
 </div>

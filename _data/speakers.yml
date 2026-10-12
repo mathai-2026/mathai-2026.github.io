@@ -7,20 +7,15 @@ jtenenbaum:
 
 tgowers:
     name: "Timothy Gowers"
+    status: "Virtual; tentative"
     url: "https://www.dpmms.cam.ac.uk/~wtg10/"
     affiliation: "Cambridge"
     img: "tgowers.jpg"
     bio: "Timothy Gowers is the Royal Society Research Professor at the University of Cambridge. He is a Fields Medalist, Fellow of the Royal Society, and recipient of the Sylvester Medal. His research spans combinatorics, functional analysis, additive number theory, higher-order Fourier analysis, and new modes of mathematical collaboration in the AI era."
 
-agu:
-    name: "Alex Gu"
-    url: "https://minimario.github.io/"
-    affiliation: "Math, Inc. & MIT"
-    img: "agu.jpg"
-    bio: "Alex Gu is a PhD student at MIT, a founding research lead at Math, Inc., and an NSF Graduate Research Fellow. He works on AI systems for programming and mathematics, including formal theorem proving, proof simplification, and language-model reasoning."
-
 gneubig:
     name: "Graham Neubig"
+    status: "Tentative"
     url: "https://www.phontron.com/"
     affiliation: "CMU & OpenHands"
     img: "gneubig.jpg"
