@@ -26,9 +26,7 @@ Accepted papers will be posted here after decisions are made.
 # Reviewers
 
 {% if site.data.reviewer_acknowledgements and site.data.reviewer_acknowledgements.size > 0 %}
-We thank the following reviewers for helping make the workshop possible:
-
-Names are listed in alphabetical order by full name.
+We thank the following reviewers for helping make the workshop possible (names are listed in alphabetical order by full name):
 
 <ul class="reviewer-list">
   {% for reviewer in site.data.reviewer_acknowledgements %}
