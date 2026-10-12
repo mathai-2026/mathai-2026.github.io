@@ -1,0 +1,647 @@
+[
+  {
+    "number": 2,
+    "title": "Cost-Effective Automated Judging of Natural-Language Mathematical Proofs",
+    "url": "https://openreview.net/forum?id=AiR1l9katM"
+  },
+  {
+    "number": 12,
+    "title": "Cross-Engine Admission Contracts for Autonomous Formalization",
+    "url": "https://openreview.net/forum?id=xOAZvprLXO"
+  },
+  {
+    "number": 13,
+    "title": "Learner History and Calibration for Generated Mathematics Questions",
+    "url": "https://openreview.net/forum?id=9uPqgPvXtJ"
+  },
+  {
+    "number": 14,
+    "title": "Where Induction Runs Out: Description-Length Difficulty and the Memorisation Gap in Integer-Sequence Benchmarks",
+    "url": "https://openreview.net/forum?id=Qh4Nk4rSq5"
+  },
+  {
+    "number": 15,
+    "title": "Discovery of 6 New Zarankiewicz Numbers via LLM-guided Evolutionary Search",
+    "url": "https://openreview.net/forum?id=3BmrdhsnNp"
+  },
+  {
+    "number": 16,
+    "title": "LLMs Under-Detect Circular Reasoning in Mathematical Handoffs",
+    "url": "https://openreview.net/forum?id=rlyruRBz8t"
+  },
+  {
+    "number": 17,
+    "title": "Can an AI Agent Rediscover a Blaschke-Curve Invariant?",
+    "url": "https://openreview.net/forum?id=ZSyMkqUqdO"
+  },
+  {
+    "number": 18,
+    "title": "Formalize, Don't Optimize: The Heuristic Trap in LLM-Generated Combinatorial Solvers",
+    "url": "https://openreview.net/forum?id=x3yak0sJcZ"
+  },
+  {
+    "number": 19,
+    "title": "Feedback Aliasing in Lean Repair Loops: A Controlled Intervention Study",
+    "url": "https://openreview.net/forum?id=ujcZkvWQvD"
+  },
+  {
+    "number": 20,
+    "title": "SURGE: Sparse Update Routing via Gated Entropy for Efficient Active Distillation",
+    "url": "https://openreview.net/forum?id=hmsv4r841w"
+  },
+  {
+    "number": 22,
+    "title": "VisTIRA: Closing the Image–Text Modality Gap in Visual Math Reasoning via Structured Tool Integration",
+    "url": "https://openreview.net/forum?id=4LQMM2I0uA"
+  },
+  {
+    "number": 25,
+    "title": "Automated conjecture resolution with formal verification",
+    "url": "https://openreview.net/forum?id=u9yXHQsdBN"
+  },
+  {
+    "number": 26,
+    "title": "Reasoning Depth Erodes the Premise Verification That Post Training Builds",
+    "url": "https://openreview.net/forum?id=BmfQxMwaRN"
+  },
+  {
+    "number": 27,
+    "title": "Correlated Criteria Drive Reward Over-Optimization: Redundancy-Aware Scheduling for Checklist Rewards",
+    "url": "https://openreview.net/forum?id=OXoUnmzfj3"
+  },
+  {
+    "number": 28,
+    "title": "OrthogonalAgent: An Auditable Control Layer for Agentic Statistical Reasoning",
+    "url": "https://openreview.net/forum?id=9Yj3agYIw4"
+  },
+  {
+    "number": 29,
+    "title": "Beyond Compilation: Human-Calibrated Evaluation of Semantic Faithfulness in Lean Autoformalization",
+    "url": "https://openreview.net/forum?id=NyhNnJEJgL"
+  },
+  {
+    "number": 30,
+    "title": "An Agentic Bug-Hunt in SymPy",
+    "url": "https://openreview.net/forum?id=gB8pmZ42Jf"
+  },
+  {
+    "number": 31,
+    "title": "Drop the Act: Probe-Filtered RL for Faithful Chain-of-Thought Reasoning",
+    "url": "https://openreview.net/forum?id=BSKeFru8gN"
+  },
+  {
+    "number": 33,
+    "title": "The Errors Reviewers Catch: Statement-Level Autoformalization Errors and What Frontier Models Miss",
+    "url": "https://openreview.net/forum?id=KDrwW5qIhh"
+  },
+  {
+    "number": 34,
+    "title": "SEMINAR: Synchronization Engine for Mathematical Illustration, Narration, and Reasoning",
+    "url": "https://openreview.net/forum?id=Hok64VGQC0"
+  },
+  {
+    "number": 35,
+    "title": "PartialMap Ledger: When Mathematical Agents May Reuse Tool Receipts",
+    "url": "https://openreview.net/forum?id=Sqhwxw05zi"
+  },
+  {
+    "number": 37,
+    "title": "Failure-Driven Verification in Human–AI Mathematics: An Explicit K3 Case Study",
+    "url": "https://openreview.net/forum?id=jHQ7Foo7B1"
+  },
+  {
+    "number": 38,
+    "title": "Preserving Mathematical Reasoning in Compressed Diffusion Language Models via Trajectory-Aware Low-Rank Approximation",
+    "url": "https://openreview.net/forum?id=Er9wytkTfx"
+  },
+  {
+    "number": 39,
+    "title": "Machine-Checked Formalization of the HHL and QSVT Quantum Algorithms in Lean 4",
+    "url": "https://openreview.net/forum?id=DjJa0POyun"
+  },
+  {
+    "number": 40,
+    "title": "Do Mathematical LLMs Survive Analog Inference?",
+    "url": "https://openreview.net/forum?id=hxpsSVj0lO"
+  },
+  {
+    "number": 41,
+    "title": "Dependency Distance Audits Descendant Leakage in Lean Proving Benchmarks",
+    "url": "https://openreview.net/forum?id=kxCMMrlk9d"
+  },
+  {
+    "number": 42,
+    "title": "Claim-Centered Research Records for AI-Assisted Theoretical Research",
+    "url": "https://openreview.net/forum?id=pbhv8tshsZ"
+  },
+  {
+    "number": 43,
+    "title": "Nudging Beyond the Comfort Zone: Efficient Strategy-Guided Exploration for RLVR",
+    "url": "https://openreview.net/forum?id=2yeTE7P9pB"
+  },
+  {
+    "number": 45,
+    "title": "ClaimScope: Label-Blind Witness Verification for Mathematical Claim Auditing",
+    "url": "https://openreview.net/forum?id=81r89V7Wda"
+  },
+  {
+    "number": 46,
+    "title": "When Logical Information Emerges: Recoverability, Behavioral Expression, and Representation Stability in Language Models",
+    "url": "https://openreview.net/forum?id=fVAtNYIT88"
+  },
+  {
+    "number": 47,
+    "title": "Learning State Transitions Improves Downstream Policy Learning in Geometry Theorem Proving",
+    "url": "https://openreview.net/forum?id=t8ioIXDHBK"
+  },
+  {
+    "number": 48,
+    "title": "The Shape of Mathematical Creativity: Measuring Mathematical Exploration in Formal Proof Generation",
+    "url": "https://openreview.net/forum?id=1HICDznLbk"
+  },
+  {
+    "number": 49,
+    "title": "Learning to Discover Interesting Mathematics",
+    "url": "https://openreview.net/forum?id=yrONIkzw4p"
+  },
+  {
+    "number": 50,
+    "title": "ParaLLax: Disentangling Difficulty from Validity in Reasoning Verifiers",
+    "url": "https://openreview.net/forum?id=HrShOL1xjI"
+  },
+  {
+    "number": 51,
+    "title": "Budget Boundary Effects in Test-Time Mathematical Reasoning",
+    "url": "https://openreview.net/forum?id=JuI3XHeJ15"
+  },
+  {
+    "number": 52,
+    "title": "When Tools Lie: Reliability of Mathematical Agents Under Corrupted Tool Feedback",
+    "url": "https://openreview.net/forum?id=vZvNvb2L7u"
+  },
+  {
+    "number": 53,
+    "title": "Beyond the Compile Check: Separating False from Unproven in LLM Conjecture Generation",
+    "url": "https://openreview.net/forum?id=BQK6bEJkuh"
+  },
+  {
+    "number": 54,
+    "title": "When Does Variance Reduction Help GRPO? A CRN Case Study in Mathematical Reasoning",
+    "url": "https://openreview.net/forum?id=zdircvUC6n"
+  },
+  {
+    "number": 56,
+    "title": "FLOWEDIT: Information-Theoretic Set-Valued Mathematical Reasoning under Conflicting Conditions",
+    "url": "https://openreview.net/forum?id=BtpAOxYyKc"
+  },
+  {
+    "number": 57,
+    "title": "The Problem Is the Problem: Towards Scalable Mathematical Discovery",
+    "url": "https://openreview.net/forum?id=I32OyxQmZs"
+  },
+  {
+    "number": 58,
+    "title": "Viva La Vida: Verification and Accumulation Failures in Multi-Agent Proof Search",
+    "url": "https://openreview.net/forum?id=bgTw6aTY85"
+  },
+  {
+    "number": 60,
+    "title": "Rediscover Before You Discover: A Recent Human Find as the Regression Target for an Agentic Geometry Pipeline",
+    "url": "https://openreview.net/forum?id=GYEvFPbCyg"
+  },
+  {
+    "number": 61,
+    "title": "Beyond Solve Rates: Harness Effects and Run-to-Run Variability in Agentic Theorem Proving",
+    "url": "https://openreview.net/forum?id=39xo7Yz7Ed"
+  },
+  {
+    "number": 62,
+    "title": "Numina-Prover: Open-Source Vibe Proving for Informal Mathematics via Parallel Subagents",
+    "url": "https://openreview.net/forum?id=wvOvvAGld9"
+  },
+  {
+    "number": 63,
+    "title": "Do Small Language Models Verify What They Can Solve? Synthetic Derivations with Planted Errors",
+    "url": "https://openreview.net/forum?id=uKznQe9l6t"
+  },
+  {
+    "number": 66,
+    "title": "Dense Neuro-Symbolic Reasoning in a Unified Geometry State",
+    "url": "https://openreview.net/forum?id=NRnxRDDaK4"
+  },
+  {
+    "number": 67,
+    "title": "When the Calculator Lies: Mathematical Agents Defer to Faulty Tools Even When They Know Better",
+    "url": "https://openreview.net/forum?id=iVS3HrwCYB"
+  },
+  {
+    "number": 69,
+    "title": "HammerRank: Symbolic Learning-to-Rank Premise Selection for the Lean Hammer",
+    "url": "https://openreview.net/forum?id=KKPaW4v6ST"
+  },
+  {
+    "number": 70,
+    "title": "Improved Convergence Rates for Stochastic Multi-Gradient Descent: A Human-Verified AI Proof",
+    "url": "https://openreview.net/forum?id=AM39VRpD6v"
+  },
+  {
+    "number": 71,
+    "title": "DoubtLess: Training-Free Contrastive Decoding for Efficient Mathematical Reasoning",
+    "url": "https://openreview.net/forum?id=A9zB4Kb9Ii"
+  },
+  {
+    "number": 72,
+    "title": "MathLoopBench: Evaluating Agentic Mathematical Discovery Loops",
+    "url": "https://openreview.net/forum?id=HtUTpiDT3k"
+  },
+  {
+    "number": 73,
+    "title": "Trees and Graphs with Non Log-concave Dominating Set Sequence via Patternboost",
+    "url": "https://openreview.net/forum?id=4zFDUVOfDV"
+  },
+  {
+    "number": 74,
+    "title": "Measuring and Mitigating Mode Collapse in RLVR",
+    "url": "https://openreview.net/forum?id=YoYMNRri3W"
+  },
+  {
+    "number": 75,
+    "title": "A dataset of formalised theorem statements from the Annals of Mathematics",
+    "url": "https://openreview.net/forum?id=NLPZxzUfu3"
+  },
+  {
+    "number": 76,
+    "title": "Lea: An Agent Backbone for Mathematician-Controlled Formalization in Lean",
+    "url": "https://openreview.net/forum?id=XKqeENjJau"
+  },
+  {
+    "number": 77,
+    "title": "LeanPRM: Lean-Grounded Supervision for Natural Language Proof Verification",
+    "url": "https://openreview.net/forum?id=WHRPm1Tkrn"
+  },
+  {
+    "number": 79,
+    "title": "FLMF: Verified Autoformalization of the Digital Library of Mathematical Functions",
+    "url": "https://openreview.net/forum?id=93DAIwd13J"
+  },
+  {
+    "number": 82,
+    "title": "LinAlg-Bench: A Benchmark Exposing Structural Failure Modes in LLM Linear Algebra - Where Models Stop Computing and Start Hallucinating",
+    "url": "https://openreview.net/forum?id=fzVJyQ33Td"
+  },
+  {
+    "number": 83,
+    "title": "Model-Dependent Transfer of Solver-Cost Orderings in SAT Evaluation",
+    "url": "https://openreview.net/forum?id=wN9KY32lGm"
+  },
+  {
+    "number": 84,
+    "title": "Learning Where to Constrain: Meta-Learned Trust Allocation for Mathematical Reasoning",
+    "url": "https://openreview.net/forum?id=n1ceQKZApq"
+  },
+  {
+    "number": 85,
+    "title": "A Guard-Aware Junk-Value Linter for Lean 4: Auditing Formal Benchmarks and Improving Autoformalization",
+    "url": "https://openreview.net/forum?id=yXCIo6XSU2"
+  },
+  {
+    "number": 86,
+    "title": "What Has Actually Been Proved? Auditable Paper-to-Lean Alignment with LeanTrail",
+    "url": "https://openreview.net/forum?id=5w4NzqyUDr"
+  },
+  {
+    "number": 89,
+    "title": "DUALITYCERT: Verifier-Gated Language-Model Repair of Broken Duality Claims in Quantum Field Theory",
+    "url": "https://openreview.net/forum?id=bejyYYlIgO"
+  },
+  {
+    "number": 90,
+    "title": "Can Small Transformers Learn the Language of Coxeter Groups?",
+    "url": "https://openreview.net/forum?id=lYImtIt4tA"
+  },
+  {
+    "number": 91,
+    "title": "Process Rewards with Learned Reliability",
+    "url": "https://openreview.net/forum?id=qNMKn4qdsd"
+  },
+  {
+    "number": 92,
+    "title": "Reliability-Aware Metacognitive Routing for Cost-Efficient Mathematical Reasoning",
+    "url": "https://openreview.net/forum?id=izCQO2t5r6"
+  },
+  {
+    "number": 93,
+    "title": "Does a Frontier Large Language Model Know What It Can Solve? A 100-Conjecture Calibration Study",
+    "url": "https://openreview.net/forum?id=CT9WOChlRl"
+  },
+  {
+    "number": 95,
+    "title": "Beyond Aggregate Accuracy: Shared Failures and Context Sensitivity in Lean Proof Completion",
+    "url": "https://openreview.net/forum?id=EX2xlUlD5R"
+  },
+  {
+    "number": 96,
+    "title": "Improving semantic equivalence in research-level math formalization",
+    "url": "https://openreview.net/forum?id=OFimGMpfHW"
+  },
+  {
+    "number": 99,
+    "title": "Do Theorem Provers Need Theorem-Proving Agents? mini-Lean-agent: A Coding-Agent Baseline for Lean",
+    "url": "https://openreview.net/forum?id=gInXazr59f"
+  },
+  {
+    "number": 100,
+    "title": "LLM-Guided Graph Construction with Elite-Seeded Local Search: Improved Lower Bounds for the Degree-Diameter Problem",
+    "url": "https://openreview.net/forum?id=N08HGlJZh5"
+  },
+  {
+    "number": 101,
+    "title": "Order-Invariant Answers, Order-Sensitive Representations in Mathematical Reasoning",
+    "url": "https://openreview.net/forum?id=D0XD7TVy6B"
+  },
+  {
+    "number": 103,
+    "title": "Escaping the Token-by-Token Learning Trap in On-Policy Distillation for Mathematical Reasoning",
+    "url": "https://openreview.net/forum?id=I1de44qb6w"
+  },
+  {
+    "number": 104,
+    "title": "BruKnot: Learning Verifiable Constructions in the Reidemeister Graph",
+    "url": "https://openreview.net/forum?id=bOuxJXOyQQ"
+  },
+  {
+    "number": 105,
+    "title": "The Verification Gap: Auditing Proof Progress and Repair on IMO 2026",
+    "url": "https://openreview.net/forum?id=KZCFaE1lkS"
+  },
+  {
+    "number": 106,
+    "title": "Knowing Before Saying: Internal Correctness Signals in Mathematical Reasoning",
+    "url": "https://openreview.net/forum?id=fm0ZShvWxL"
+  },
+  {
+    "number": 108,
+    "title": "Language Models Under False Lean 4 Reports: Initial Decisions and Final Proofs",
+    "url": "https://openreview.net/forum?id=dFzxkCsgDf"
+  },
+  {
+    "number": 109,
+    "title": "Proof Perplexity: A Probabilistic Approach to Measuring non-triviality in Machine Generated Proofs",
+    "url": "https://openreview.net/forum?id=XsbGApV7SH"
+  },
+  {
+    "number": 110,
+    "title": "GeoGenBench: Symbolically Verified Generation of Geometry Diagrams",
+    "url": "https://openreview.net/forum?id=enXooGHnx0"
+  },
+  {
+    "number": 111,
+    "title": "When Sharp Layer Bounds Cannot Coexist: Exact Antichain Saturation via Symbolic Search",
+    "url": "https://openreview.net/forum?id=swa6JsEnpM"
+  },
+  {
+    "number": 113,
+    "title": "Prove2Me: An Open Collaborative Platform for Scaling Math Formalization",
+    "url": "https://openreview.net/forum?id=ibkPKRsl8c"
+  },
+  {
+    "number": 115,
+    "title": "When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning",
+    "url": "https://openreview.net/forum?id=c6JzV250XC"
+  },
+  {
+    "number": 116,
+    "title": "Accuracy, Confidence, and Sample Budgets: Exact Certificates for Mathematical Benchmark Claims",
+    "url": "https://openreview.net/forum?id=By5aSQ2rjl"
+  },
+  {
+    "number": 118,
+    "title": "Query–Key Ensembles for Mathematical Reasoning Verification",
+    "url": "https://openreview.net/forum?id=rkCV422iCL"
+  },
+  {
+    "number": 119,
+    "title": "Studying the Effects of Task Diversity Using Small Mathematical Worlds",
+    "url": "https://openreview.net/forum?id=czjdnMqisw"
+  },
+  {
+    "number": 120,
+    "title": "MMGO-Bench: A Multimodal Graph Optimization Benchmark",
+    "url": "https://openreview.net/forum?id=aZgoxJm3Uc"
+  },
+  {
+    "number": 122,
+    "title": "Improving Math Reasoning through Value-Guided Informative Search",
+    "url": "https://openreview.net/forum?id=dx6uk28WZf"
+  },
+  {
+    "number": 124,
+    "title": "Sparse coloring for isosceles-free grids: an AI-assisted proof case study",
+    "url": "https://openreview.net/forum?id=qTZ69hl9KC"
+  },
+  {
+    "number": 125,
+    "title": "StochBench: A Domain-Specific Benchmark for Stochastic Processes in Lean",
+    "url": "https://openreview.net/forum?id=K2BVA0N4aO"
+  },
+  {
+    "number": 126,
+    "title": "PeerConf: Self-Calibrating Early Stopping for Efficient Parallel LLM Reasoning",
+    "url": "https://openreview.net/forum?id=p78rKPekic"
+  },
+  {
+    "number": 127,
+    "title": "On the Off-Policy Teacher in On-Policy Distillation",
+    "url": "https://openreview.net/forum?id=ndUuYg09Pr"
+  },
+  {
+    "number": 128,
+    "title": "Agentic Computational Algebra",
+    "url": "https://openreview.net/forum?id=znXJXO5dWZ"
+  },
+  {
+    "number": 130,
+    "title": "When Group Normalization Undermines Sparse Reward Auditing in RLVR",
+    "url": "https://openreview.net/forum?id=wIdP9gK259"
+  },
+  {
+    "number": 131,
+    "title": "Productive Failure in Agentic Mathematics: An Auditable Connected-Domination Case Study",
+    "url": "https://openreview.net/forum?id=k6bZ91ld5o"
+  },
+  {
+    "number": 134,
+    "title": "ConjectureLineage: Learning Mathematical Taste from Documented Follow-Up",
+    "url": "https://openreview.net/forum?id=lBoeKHuibU"
+  },
+  {
+    "number": 137,
+    "title": "Does My Embedding Reflect That \\(A = B\\)? Evaluating Mathematical Equivalence in Embedding Models",
+    "url": "https://openreview.net/forum?id=2R7ZkxHkp3"
+  },
+  {
+    "number": 138,
+    "title": "When Does Long Thinking Help? A Discovery- Execution Framework for Mathematical Reasoning",
+    "url": "https://openreview.net/forum?id=OLMx1ozceS"
+  },
+  {
+    "number": 139,
+    "title": "EULER: Searching Representation–Operation Pairs for Mathematical Discovery",
+    "url": "https://openreview.net/forum?id=SbEy517JUV"
+  },
+  {
+    "number": 140,
+    "title": "An Automated Theorem Proving System and Visualized Lean Library for Sampling Theory, Optimisation and Geometry",
+    "url": "https://openreview.net/forum?id=UkKpNtVED2"
+  },
+  {
+    "number": 141,
+    "title": "MathAtlas: A Benchmark for Autoformalization in the Wild",
+    "url": "https://openreview.net/forum?id=EuRytL7g6e"
+  },
+  {
+    "number": 142,
+    "title": "Permissiveness Credit: What Formal Math Benchmarks Reward Besides Capability",
+    "url": "https://openreview.net/forum?id=Pu19aEaUqs"
+  },
+  {
+    "number": 143,
+    "title": "Encouragement as Pedagogy: Using AI-Mediated Mathematical Participation to Address Math Anxiety in Education and Outreach",
+    "url": "https://openreview.net/forum?id=ecDlsSzSAu"
+  },
+  {
+    "number": 144,
+    "title": "Proving at Scale for Universal Algebra",
+    "url": "https://openreview.net/forum?id=5SwMVkqvWI"
+  },
+  {
+    "number": 145,
+    "title": "Detecting and Correcting Reasoning Failures: A Controlled Negative Result for a Residual-Stream Monitor",
+    "url": "https://openreview.net/forum?id=AxOXuIaLWj"
+  },
+  {
+    "number": 147,
+    "title": "Attention-Graph Curvature for the Verification of Mathematical Reasoning",
+    "url": "https://openreview.net/forum?id=LY0W4Qcohd"
+  },
+  {
+    "number": 148,
+    "title": "Bolzano: From Expert-Guided Proof Search to Automated Open-Problem Solving",
+    "url": "https://openreview.net/forum?id=jMyUE4iihD"
+  },
+  {
+    "number": 149,
+    "title": "Structural Coverage: Do AI Provers Use Mathlib the Way Mathematicians Do?",
+    "url": "https://openreview.net/forum?id=OlhK1Q29uQ"
+  },
+  {
+    "number": 151,
+    "title": "AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics",
+    "url": "https://openreview.net/forum?id=vMYOoszktA"
+  },
+  {
+    "number": 153,
+    "title": "Zero: A Meta-Agent for Mathematical Research",
+    "url": "https://openreview.net/forum?id=yhKgvPCc2w"
+  },
+  {
+    "number": 154,
+    "title": "Auditing LLM Program Search for Bermudan Stopping with Primal--Dual Certificates",
+    "url": "https://openreview.net/forum?id=fpBKTdI4NE"
+  },
+  {
+    "number": 155,
+    "title": "Verifiable Mathematical Reasoning as a Probe of Emergent Global Workspaces",
+    "url": "https://openreview.net/forum?id=RPsfeyQUm4"
+  },
+  {
+    "number": 156,
+    "title": "Automated Review of Mathematical Papers: Errors Found and Repaired in the Top Four Journals",
+    "url": "https://openreview.net/forum?id=kZcfrHaerm"
+  },
+  {
+    "number": 157,
+    "title": "Basis Artifacts in Solution-Level Verification of LLM-Generated Linear Programs",
+    "url": "https://openreview.net/forum?id=yBbaoEqaK1"
+  },
+  {
+    "number": 158,
+    "title": "Learning Posterior Teachers for On-Policy Distillation",
+    "url": "https://openreview.net/forum?id=BjiTPhufxQ"
+  },
+  {
+    "number": 159,
+    "title": "Sage-to-Lean: Formal Verification of Answers from CAS-Augmented Mathematical Agents",
+    "url": "https://openreview.net/forum?id=jzt72HPr5O"
+  },
+  {
+    "number": 160,
+    "title": "Evidence Integration in Large Language Models",
+    "url": "https://openreview.net/forum?id=3pBzMQSWUv"
+  },
+  {
+    "number": 161,
+    "title": "Beyond Solver Acceptance: Auditing Autoformalized Biomedical Claims",
+    "url": "https://openreview.net/forum?id=WfDlm3YtFq"
+  },
+  {
+    "number": 162,
+    "title": "VALG: An Agentic System for ML Theory Research",
+    "url": "https://openreview.net/forum?id=uX2NMpfMnF"
+  },
+  {
+    "number": 163,
+    "title": "Theorem Evolution Graphs: A Structured Representation of How Mathematical Theorems Build on One Another",
+    "url": "https://openreview.net/forum?id=1hGZrRNkyA"
+  },
+  {
+    "number": 164,
+    "title": "Human–AI Collaboration in Mathematics: A Practical Account",
+    "url": "https://openreview.net/forum?id=foYQtYFffE"
+  },
+  {
+    "number": 165,
+    "title": "Coding Agents for Coding Theory",
+    "url": "https://openreview.net/forum?id=tXw6YBQMLD"
+  },
+  {
+    "number": 166,
+    "title": "AxiomShift: Altering Axioms to Evaluate LLM Reasoning at Knowledge Boundaries",
+    "url": "https://openreview.net/forum?id=RIVQZtAhxW"
+  },
+  {
+    "number": 168,
+    "title": "Mitigating Reward Hacking in Mathematical Reasoning Without Ground-Truth Labels",
+    "url": "https://openreview.net/forum?id=wSQdImNKhX"
+  },
+  {
+    "number": 170,
+    "title": "Searching for Graph Counterexamples with Mixed-Extension Templates",
+    "url": "https://openreview.net/forum?id=cbF2IRWEfG"
+  },
+  {
+    "number": 171,
+    "title": "AlphaApollo: A System for Deep Agentic Reasoning",
+    "url": "https://openreview.net/forum?id=9jbZaazF0i"
+  },
+  {
+    "number": 172,
+    "title": "AlphaDiana: A System for Evaluating Reasoning Agents",
+    "url": "https://openreview.net/forum?id=YJFEscNgMe"
+  },
+  {
+    "number": 173,
+    "title": "Agentic Algorithm Design: LLMs that Propose, Formalise, and Prove Runtime Bounds for Evolutionary Algorithms in Lean",
+    "url": "https://openreview.net/forum?id=Hv6VsPVBkG"
+  },
+  {
+    "number": 175,
+    "title": "LEVER: Adaptive Cost-Aware Proof Search Over AND/OR Graphs",
+    "url": "https://openreview.net/forum?id=cDVSAdq2Ex"
+  },
+  {
+    "number": 177,
+    "title": "Symbolic Search Is Not Exhausted: Persistent Proof-Space Exploration in Lean4",
+    "url": "https://openreview.net/forum?id=5yT0Qk2bww"
+  }
+]

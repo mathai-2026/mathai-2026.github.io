@@ -180,6 +180,8 @@ link-tags: true
 
 # Exclude these files from production site
 exclude:
+  - openreview
+  - scripts
   - CHANGELOG.md
   - CNAME
   - Dockerfile
