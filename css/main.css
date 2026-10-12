@@ -833,3 +833,22 @@ td.gutter {
   line-height: 1.35;
   color: #404040;
 }
+
+/* Reviewer acknowledgements: alphabetical order across each row. */
+.reviewer-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 8px 32px;
+  padding-left: 20px;
+}
+
+.reviewer-list li {
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+
+@media (max-width: 480px) {
+  .reviewer-list {
+    grid-template-columns: 1fr;
+  }
+}
