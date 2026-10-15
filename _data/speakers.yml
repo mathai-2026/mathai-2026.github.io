@@ -49,6 +49,13 @@ namin:
     img: "namin.jpg"
     bio: "Nada Amin is an Assistant Professor of Computer Science at Harvard SEAS and recipient of a PLDI Distinguished Paper Award. Her research combines programming languages and AI to build correct-by-construction systems for program synthesis, proof synthesis, verification, and mathematical discovery."
 
+npeng:
+    name: "Nanyun Peng"
+    url: "https://violetpeng.github.io/"
+    affiliation: "Google & UCLA"
+    img: "npeng.jpg"
+    bio: "Nanyun Peng is a Senior Staff Research Scientist at Google and an Associate Professor of Computer Science at UCLA (on leave). She is a recipient of the NSF CAREER Award and Google Research Scholar Award. Her research focuses on controllable and creative language generation, multimodal foundation models, automatic evaluation, multilingual natural language understanding, and human-AI collaboration."
+
 vganesh:
     name: "Vijay Ganesh"
     url: "https://vganesh1.github.io/"
