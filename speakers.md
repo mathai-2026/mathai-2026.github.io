@@ -10,6 +10,8 @@ use-site-title: true
 
 # Speakers & Panelists
 
+Speakers are listed in alphabetical order by last name. For the actual order and sessions, please see the [Schedule](schedule) tab.
+
 <div class="container" style="margin-top: 25px;margin-bottom: 40px;">
   {% for p in site.data.speakers %}
   {% if forloop.index<15 %}

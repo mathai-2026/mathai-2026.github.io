@@ -1,9 +1,30 @@
-jtenenbaum:
-    name: "Josh Tenenbaum"
-    url: "https://cocosci.mit.edu/josh-tenenbaum/"
-    affiliation: "MIT"
-    img: "jtenenbaum.jpg"
-    bio: "Joshua Tenenbaum is Professor of Computational Cognitive Science at MIT. He is MacArthur Fellow and AI2050 Senior Fellow. His research develops computational models of human learning, common-sense reasoning, causal inference, concept learning, and human-AI collaboration."
+namin:
+    name: "Nada Amin"
+    url: "https://namin.seas.harvard.edu/"
+    affiliation: "Harvard"
+    img: "namin.jpg"
+    bio: "Nada Amin is an Assistant Professor of Computer Science at Harvard SEAS and recipient of a PLDI Distinguished Paper Award. Her research combines programming languages and AI to build correct-by-construction systems for program synthesis, proof synthesis, verification, and mathematical discovery."
+
+javigad:
+    name: "Jeremy Avigad"
+    url: "https://www.andrew.cmu.edu/user/avigad/"
+    affiliation: "CMU"
+    img: "javigad.jpg"
+    bio: "Jeremy Avigad is Professor of Philosophy and Mathematical Sciences at CMU, Director of the Hoskinson Center for Formal Mathematics, and Director of the Institute for Computer-Aided Reasoning in Mathematics. He is a foundational figure in the Lean ecosystem, serving on the Lean FRO board and contributing significantly to mathematical logic, formal verification, interactive theorem proving, and proof-assistant formalization."
+
+kellis:
+    name: "Kevin Ellis"
+    url: "https://www.cs.cornell.edu/~ellisk/"
+    affiliation: "Cornell"
+    img: "kellis.jpg"
+    bio: "Kevin Ellis is an Assistant Professor of Computer Science at Cornell University and NSF CAREER award recipient. His research focuses on program synthesis, neuro-symbolic AI, library learning, abstraction, and systems that learn interpretable programs and concepts."
+
+vganesh:
+    name: "Vijay Ganesh"
+    url: "https://vganesh1.github.io/"
+    affiliation: "Georgia Tech"
+    img: "vganesh.jpg"
+    bio: "Vijay Ganesh is a Professor of Computer Science at Georgia Tech, Associate Director of the IDEaS Institute, and Founder and Director of the AI4Math Center. His research focuses on the theory and practice of SAT and SMT solvers, machine learning for logic, neuro-symbolic AI for mathematical discovery, proof complexity, software engineering, and security."
 
 tgowers:
     name: "Timothy Gowers"
@@ -13,20 +34,19 @@ tgowers:
     img: "tgowers.jpg"
     bio: "Timothy Gowers is the Royal Society Research Professor at the University of Cambridge. He is a Fields Medalist, Fellow of the Royal Society, and recipient of the Sylvester Medal. His research spans combinatorics, functional analysis, additive number theory, higher-order Fourier analysis, and new modes of mathematical collaboration in the AI era."
 
-gneubig:
-    name: "Graham Neubig"
-    status: "Tentative"
-    url: "https://www.phontron.com/"
-    affiliation: "CMU & OpenHands"
-    img: "gneubig.jpg"
-    bio: "Graham Neubig is an Associate Professor in the Language Technologies Institute at CMU and Chief Scientist at OpenHands. He is a Blavatnik National Awards finalist and recipient of best paper awards. He works on code generation, software-development agents, multilingual processing, and real-world evaluation."
+npeng:
+    name: "Nanyun Peng"
+    url: "https://violetpeng.github.io/"
+    affiliation: "Google & UCLA"
+    img: "npeng.jpg"
+    bio: "Nanyun Peng is a Senior Staff Research Scientist at Google and an Associate Professor of Computer Science at UCLA (on leave). She is a recipient of the NSF CAREER Award and Google Research Scholar Award. Her research focuses on controllable and creative language generation, multimodal foundation models, automatic evaluation, multilingual natural language understanding, and human-AI collaboration."
 
-javigad:
-    name: "Jeremy Avigad"
-    url: "https://www.andrew.cmu.edu/user/avigad/"
-    affiliation: "CMU"
-    img: "javigad.jpg"
-    bio: "Jeremy Avigad is Professor of Philosophy and Mathematical Sciences at CMU, Director of the Hoskinson Center for Formal Mathematics, and Director of the Institute for Computer-Aided Reasoning in Mathematics. He is a foundational figure in the Lean ecosystem, serving on the Lean FRO board and contributing significantly to mathematical logic, formal verification, interactive theorem proving, and proof-assistant formalization."
+qin:
+    name: "Lianhui Qin"
+    url: "https://lianhui.ucsd.edu/"
+    affiliation: "UCSD"
+    img: "lqin.jpg"
+    bio: "Lianhui Qin is an Assistant Professor in the Computer Science and Engineering Department at UC San Diego, where Qin leads the Q-Lab research group. Qin received a PhD from the University of Washington and is a Microsoft Research PhD Fellow and ARC Prize 2025 Paper Track Runner-Up Award recipient. Research focuses on controllable, constrained, and latent reasoning, self-evolving agents, open-ended world and agent modeling, and AI reasoning for science."
 
 xsi:
     name: "Xujie Si"
@@ -35,30 +55,9 @@ xsi:
     img: "xsi.jpg"
     bio: "Xujie Si is an Assistant Professor in the Department of Computer Science at the University of Toronto, and a faculty affiliate at the Vector Institute and an affiliate member at Mila - Quebec AI Institute. He was recognized as a Canada CIFAR AI Chair, and has won best paper awards at PLDI and CSAW. His research focuses on developing machine learning techniques to address various reasoning challenges such as auto-(in)formalization, theorem proving, program verification, and program synthesis."
 
-kellis:
-    name: "Kevin Ellis"
-    url: "https://www.cs.cornell.edu/~ellisk/"
-    affiliation: "Cornell"
-    img: "kellis.jpg"
-    bio: "Kevin Ellis is an Assistant Professor of Computer Science at Cornell University and NSF CAREER award recipient. His research focuses on program synthesis, neuro-symbolic AI, library learning, abstraction, and systems that learn interpretable programs and concepts."
-
-namin:
-    name: "Nada Amin"
-    url: "https://namin.seas.harvard.edu/"
-    affiliation: "Harvard"
-    img: "namin.jpg"
-    bio: "Nada Amin is an Assistant Professor of Computer Science at Harvard SEAS and recipient of a PLDI Distinguished Paper Award. Her research combines programming languages and AI to build correct-by-construction systems for program synthesis, proof synthesis, verification, and mathematical discovery."
-
-npeng:
-    name: "Nanyun Peng"
-    url: "https://violetpeng.github.io/"
-    affiliation: "Google & UCLA"
-    img: "npeng.jpg"
-    bio: "Nanyun Peng is a Senior Staff Research Scientist at Google and an Associate Professor of Computer Science at UCLA (on leave). She is a recipient of the NSF CAREER Award and Google Research Scholar Award. Her research focuses on controllable and creative language generation, multimodal foundation models, automatic evaluation, multilingual natural language understanding, and human-AI collaboration."
-
-vganesh:
-    name: "Vijay Ganesh"
-    url: "https://vganesh1.github.io/"
-    affiliation: "Georgia Tech"
-    img: "vganesh.jpg"
-    bio: "Vijay Ganesh is a Professor of Computer Science at Georgia Tech, Associate Director of the IDEaS Institute, and Founder and Director of the AI4Math Center. His research focuses on the theory and practice of SAT and SMT solvers, machine learning for logic, neuro-symbolic AI for mathematical discovery, proof complexity, software engineering, and security."
+jtenenbaum:
+    name: "Josh Tenenbaum"
+    url: "https://cocosci.mit.edu/josh-tenenbaum/"
+    affiliation: "MIT"
+    img: "jtenenbaum.jpg"
+    bio: "Joshua Tenenbaum is Professor of Computational Cognitive Science at MIT. He is MacArthur Fellow and AI2050 Senior Fellow. His research develops computational models of human learning, common-sense reasoning, causal inference, concept learning, and human-AI collaboration."
