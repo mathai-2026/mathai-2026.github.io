@@ -1,0 +1,13 @@
+<div class="container" style="margin-top: 25px;margin-bottom: 40px;">
+  {% for p in include.people %}
+  <div class="row">
+    <div class="col-sm">
+    {% include profile.html p=p %}
+    </div>
+    <div class="col">
+    {% include profile_detail.html p=p %}
+    </div>
+  </div>
+  <br>
+  {% endfor %}
+</div>

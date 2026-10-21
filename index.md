@@ -1,15 +1,5 @@
 ---
-layout: page
-title: MATH-AI
-subtitle: "The 6th Workshop on Mathematical Reasoning and AI"
-use-site-title: true
 ---
-<div class="venue" style="font-size: 27px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
-  NeurIPS 2026, Atlanta Hall C3, Saturday, December 12, 2026
-</div>
-
-
-
 
 <div class="sharethis-inline-share-buttons"></div>
 <meta name="thumbnail" content="./img/neurips-logo-new.jpg" />
@@ -22,12 +12,7 @@ use-site-title: true
 
 # Key Dates
 
-**Paper submission opens:** July 25, 2026 <br>
-**Paper submission deadline:** September 6, 2026 (AoE) <br>
-**Reviewing deadline:** September 20, 2026 (AoE) <br>
-**Author notification:** September 28, 2026 (AoE) <br>
-**Camera-ready deadline:** October 2, 2026 (AoE) <br>
-**Workshop:** Saturday, December 12, 2026, Atlanta Hall C3
+{% include key_dates.md %}
 
 See the [call for papers](/cfp) for full submission details.
 
@@ -53,19 +38,13 @@ This year, our central question is: *How can agentic AI systems advance mathemat
 # Speakers & Panelists
 <div class="container" style="margin-top: 20px;margin-bottom: 0px;">
   <div class="row">
-    {% for p in site.data.speakers %}
-    {% if forloop.index<=5 %}
-    {% capture id %}{{ p[0] }}{% endcapture %}
+    {% for p in site.data.speakers limit: 5 %}
     {% include profile.html p=p %}
-    {% endif %}
     {% endfor %}
   </div>
   <div class="row">
-    {% for p in site.data.speakers %}
-    {% capture id %}{{ p[0] }}{% endcapture %}
-    {% if forloop.index>5 and forloop.index<=10%}
+    {% for p in site.data.speakers limit: 5 offset: 5 %}
     {% include profile.html p=p %}
-    {% endif %}
     {% endfor %}
   </div>
 </div>
@@ -73,26 +52,17 @@ This year, our central question is: *How can agentic AI systems advance mathemat
 <hr>
 
 # Organizers
-<!-- # Organizers -->
 
 <!-- prettier-ignore -->
 <div class="container" style="margin-top: 25px;margin-bottom: 40px;">
-  <!-- <br> 
-  <div class="row" style="margin: -30px;"> -->
   <div class="row">
-    {% for p in site.data.organizers %}
-    {% if forloop.index<=4 %}
-    {% capture id %}{{ p[0] }}{% endcapture %}
+    {% for p in site.data.organizers limit: 4 %}
     {% include profile.html p=p %}
-    {% endif %}
     {% endfor %}
   </div>
   <div class="row">
-    {% for p in site.data.organizers %}
-    {% capture id %}{{ p[0] }}{% endcapture %}
-    {% if forloop.index>4 and forloop.index<=8%}
+    {% for p in site.data.organizers limit: 4 offset: 4 %}
     {% include profile.html p=p %}
-    {% endif %}
     {% endfor %}
   </div>
 </div>
