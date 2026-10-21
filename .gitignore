@@ -1,3 +1,7 @@
 .DS_Store
+__pycache__/
+
+# Private organizer data: submission PDFs, reviewer ID lists, and outputs of
+# the scripts in _scripts/. Never commit these; the repository is public.
 scripts
 openreview
