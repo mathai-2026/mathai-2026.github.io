@@ -47,7 +47,8 @@ footer-link-col: "#404040"
 
 # --- Footer options --- #
 
-author: Organizers of the 6th MATH-AI Workshop at NeurIPS 2026
+author:
+  name: Organizers of the 6th MATH-AI Workshop at NeurIPS 2026
 
 # Links shown in the footer; available keys are defined in _data/SocialNetworks.yml
 social-network-links:

@@ -1,0 +1,10 @@
+  <div class="row">
+    {% for p in include.people %}
+    {% assign col = forloop.index0 | modulo: include.per_row %}
+    {% if forloop.index0 > 0 and col == 0 %}
+  </div>
+  <div class="row">
+    {% endif %}
+    {% include profile.html p=p %}
+    {% endfor %}
+  </div>

@@ -37,16 +37,7 @@ This year, our central question is: *How can agentic AI systems advance mathemat
 
 # Speakers & Panelists
 <div class="container" style="margin-top: 20px;margin-bottom: 0px;">
-  <div class="row">
-    {% for p in site.data.speakers limit: 5 %}
-    {% include profile.html p=p %}
-    {% endfor %}
-  </div>
-  <div class="row">
-    {% for p in site.data.speakers limit: 5 offset: 5 %}
-    {% include profile.html p=p %}
-    {% endfor %}
-  </div>
+{% include profile_grid.html people=site.data.speakers per_row=5 %}
 </div>
 
 <hr>
@@ -55,16 +46,7 @@ This year, our central question is: *How can agentic AI systems advance mathemat
 
 <!-- prettier-ignore -->
 <div class="container" style="margin-top: 25px;margin-bottom: 40px;">
-  <div class="row">
-    {% for p in site.data.organizers limit: 4 %}
-    {% include profile.html p=p %}
-    {% endfor %}
-  </div>
-  <div class="row">
-    {% for p in site.data.organizers limit: 4 offset: 4 %}
-    {% include profile.html p=p %}
-    {% endfor %}
-  </div>
+{% include profile_grid.html people=site.data.organizers per_row=4 %}
 </div>
 <hr>
 
