@@ -6,6 +6,7 @@
 
 # News
 
+* Our official [workshop schedule](/schedule) is out! See you on Saturday, December 12, 2026, in Atlanta Hall C3.
 * Join our [Discord](https://discord.gg/nkvtSCeNX4) server to stay up to date with MATH-AI announcements, news, and discussions, and connect with fellow members of the community.
 * The [call for papers](/cfp) is now open! Submit on [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/MATH-AI).
 * We are delighted to announce that MATH-AI 2026 has been accepted as a NeurIPS 2026 workshop in Atlanta.
