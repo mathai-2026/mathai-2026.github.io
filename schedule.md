@@ -15,7 +15,7 @@
       </tr>
       <tr>
         <td style="width: 180px;">8:30am - 9:00am</td>
-        <td>Invited Talk: <a href="https://www.cs.cornell.edu/~ellisk/" target="_blank">Kevin Ellis</a> (Cornell), "AI-Assisted Equation Discovery"</td>
+        <td>Invited Talk: <a href="https://www.cs.cornell.edu/~ellisk/" target="_blank">Kevin Ellis</a> (Cornell)</td>
       </tr>
       <tr>
         <td style="width: 180px;">9:00am - 9:30am</td>
